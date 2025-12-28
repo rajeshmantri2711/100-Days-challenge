@@ -142,7 +142,9 @@ Completed Windows Fundamentals from the Pre-Security path.
 - Core system components  
 
 **Proof of Concept:**  
-- [day_8](Images-PoC/day_8.jpg)
+- [day_8](Images-PoC/day_8.png)
+- [day_8_1](Images-PoC/day_8_1.png)
+
 
 ---
 
@@ -157,7 +159,9 @@ Configured Wazuh and Suricata for log analysis.
 - https://github.com/rajeshmantri2711/wazuh-linux  
 
 **Proof of Concept:**  
-- [day_9](Images-PoC/day_9.jpg)
+- [day_9](Images-PoC/day_9.png)
+- [day_9_1](Images-PoC/day_9_1.png)
+
 
 ---
 
@@ -170,7 +174,10 @@ Integrated VirusTotal with Wazuh.
 - Malicious file identification and remediation  
 
 **Proof of Concept:**  
-- [day_10](Images-PoC/day_10.jpg)
+- [day_10](Images-PoC/day_10.png)
+- [day_10_1](Images-PoC/day_10_1.png)
+- [day_10_2](Images-PoC/day_10_2.png)
+
 
 ---
 
@@ -182,7 +189,7 @@ Enrolled in Microsoft Sentinel: Introduction.
 - Cloud SIEM fundamentals  
 
 **Proof of Concept:**  
-- [day_11](Images-PoC/day_11.jpg)
+- [day_11](Images-PoC/day_11.png)
 
 ---
 
@@ -194,7 +201,9 @@ Completed a SOC phishing simulation.
 - Identified true and false phishing emails  
 
 **Proof of Concept:**  
-- [day_12](Images-PoC/day_12.jpg)
+- [day_12](Images-PoC/day_12_1.png)
+- [day_12_1](Images-PoC/day_12_2.png)
+
 
 ---
 
@@ -206,7 +215,7 @@ Completed Microsoft Sentinel: Introduction.
 - Core Sentinel capabilities  
 
 **Proof of Concept:**  
-- [day_13](Images-PoC/day_13.jpg)
+- [day_13](Images-PoC/day_13.png)
 
 ---
 
@@ -220,7 +229,7 @@ Returned to Hack The Box.
 - Privilege escalation  
 
 **Proof of Concept:**  
-- [day_14](Images-PoC/day_14.jpg)
+- [day_14](Images-PoC/day_14.png)
 
 ---
 
@@ -243,7 +252,7 @@ Completed HTB *Brutus*.
 - Analyzed system log files  
 
 **Proof of Concept:**  
-- [day_15](Images-PoC/day_15.jpg)
+- [day_15](Images-PoC/day_15.png)
 
 ---
 
@@ -255,7 +264,7 @@ Installed Splunk and configured data forwarding.
 - Indexers and forwarders  
 
 **Proof of Concept:**  
-- [day_16](Images-PoC/day_16.jpg)
+- [day_16](Images-PoC/day_16.png)
 
 ---
 
@@ -268,7 +277,7 @@ Used Splunk BOTS v3 dataset.
 - Initial log interpretation  
 
 **Proof of Concept:**  
-- [day_17](Images-PoC/day_17.jpg)
+- [day_17](Images-PoC/day_17.png)
 
 ---
 
