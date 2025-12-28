@@ -351,7 +351,7 @@ Continued SOC 101 course.
 - Attachment analysis  
 
 **Proof of Concept:**  
-- [day_22](Images-PoC/day_22.jpg)
+- [day_22](Images-PoC/day_22.png)
 
 ---
 
@@ -363,7 +363,7 @@ Manual Splunk testing due to network issues.
 - SPL reinforcement  
 
 **Proof of Concept:**  
-- [day_23](Images-PoC/day_23.jpg)
+- [day_23](Images-PoC/day_23.png)
 
 ---
 
@@ -376,7 +376,8 @@ Used Caldera for attack simulation.
 - Observed logs in Splunk  
 
 **Proof of Concept:**  
-- [day_24](Images-PoC/day_24.jpg)
+- [day_24](Images-PoC/day_24_1(caldera).png)
+- [day_24_1](Images-PoC/day_24_2(spulnk).png)
 
 ---
 
@@ -388,7 +389,11 @@ Built Splunk dashboards.
 - Data visualization  
 
 **Proof of Concept:**  
-- [day_25](Images-PoC/day_25.jpg)
+- [day_25](Images-PoC/day_25_1.png)
+- [day_25_1](Images-PoC/day_25_2.png)
+- [day_25_2](Images-PoC/day_25_3.png)
+- [day_25_3](Images-PoC/day_25_4.png)
+
 
 ---
 
@@ -401,7 +406,8 @@ Completed BTLO *Piggy* and progressed in *Foxy*.
 - OSINT  
 
 **Proof of Concept:**  
-- [day_26](Images-PoC/day_26.jpg)
+- [day_26](Images-PoC/day_26_1.png)
+- [day_26_1](Images-PoC/day_26_2.png)
 
 ---
 
@@ -414,7 +420,7 @@ Completed BTLO *Foxy*.
 - Malware analysis basics  
 
 **Proof of Concept:**  
-- [day_27](Images-PoC/day_27.jpg)
+- [day_27](Images-PoC/day_27.png)
 
 ---
 
@@ -426,7 +432,7 @@ Installed Sysmon for Linux (system failure occurred).
 - Explored free Linux EDR solutions  
 
 **Proof of Concept:**  
-- [day_28](Images-PoC/day_28.jpg)
+- [day_28](Images-PoC/day_28.png)
 
 ---
 
@@ -440,56 +446,5 @@ Installed Sysmon for Linux (system failure occurred).
 
 ---
 
-## DAY 29
-**Activity:**  
-Tested OpenEDR and Velociraptor.
-
-**Learning and Outcome:**  
-- Evaluated Linux EDR tools  
-
-**Proof of Concept:**  
-- [day_29](Images-PoC/day_29.jpg)
-
----
-
-## DAY 30
-**Activity:**  
-Configured Velociraptor successfully.  
-Installed Splunk forwarder on Windows.
-
-**Learning and Outcome:**  
-- Endpoint monitoring  
-
-**Proof of Concept:**  
-- [day_30](Images-PoC/day_30.jpg)
-
----
-
-## DAY 31
-**Activity:**  
-Configured Sysmon and Suricata on Windows.
-
-**Learning and Outcome:**  
-- Windows telemetry  
-- IDS log forwarding  
-
-**Proof of Concept:**  
-- [day_31](Images-PoC/day_31.jpg)
-
----
-
-## WEEK 5 REVIEW (Day 29 – Day 31)
-**Focus:** Endpoint visibility and log pipelines.
-
-**Key Skills Gained:**  
-- Windows logging  
-- SIEM integration  
-- Endpoint detection tools  
-
----
-
-## Overall Progress Summary
-- Challenge Start Date: 1st November 2025  
-- Days Completed: 31 / 100  
 
 This repository will continue to be updated with daily logs, proof-of-concept artifacts, and weekly reviews.
