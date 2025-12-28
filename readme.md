@@ -22,48 +22,25 @@ This repository serves as a **public learning log and portfolio**, demonstrating
 
 <div align="center">
 
-| Week 1        | Week 2        | Week 3        | Week 4        |
-|---------------|---------------|---------------|---------------|
-| [Day 1](#day-1)  | [Day 8](#day-8)  | [Day 15](#day-15) | [Day 22](#day-22) |
-| [Day 2](#day-2)  | [Day 9](#day-9)  | [Day 16](#day-16) | [Day 23](#day-23) |
-| [Day 3](#day-3)  | [Day 10](#day-10) | [Day 17](#day-17) | [Day 24](#day-24) |
-| [Day 4](#day-4)  | [Day 11](#day-11) | [Day 18](#day-18) | [Day 25](#day-25) |
-| [Day 5](#day-5)  | [Day 12](#day-12) | [Day 19](#day-19) | [Day 26](#day-26) |
-| [Day 6](#day-6)  | [Day 13](#day-13) | [Day 20](#day-20) | [Day 27](#day-27) |
-| [Day 7](#day-7)  | [Day 14](#day-14) | [Day 21](#day-21) | [Day 28](#day-28) |
+| Week 1        | Week 2        | Week 3        | Week 4        | Week 5        | Week 6        | Week 7        | Week 8        |
+|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
+| [Day 1](#day-1)  | [Day 8](#day-8)  | [Day 15](#day-15) | [Day 22](#day-22) | [Day 29](#day-29) | [Day 36](#day-36) | [Day 43](#day-43) | [Day 50](#day-50) |
+| [Day 2](#day-2)  | [Day 9](#day-9)  | [Day 16](#day-16) | [Day 23](#day-23) | [Day 30](#day-30) | [Day 37](#day-37) | [Day 44](#day-44) | [Day 51](#day-51) |
+| [Day 3](#day-3)  | [Day 10](#day-10) | [Day 17](#day-17) | [Day 24](#day-24) | [Day 31](#day-31) | [Day 38](#day-38) | [Day 45](#day-45) | [Day 52](#day-52) |
+| [Day 4](#day-4)  | [Day 11](#day-11) | [Day 18](#day-18) | [Day 25](#day-25) | [Day 32](#day-32) | [Day 39](#day-39) | [Day 46](#day-46) | [Day 53](#day-53) |
+| [Day 5](#day-5)  | [Day 12](#day-12) | [Day 19](#day-19) | [Day 26](#day-26) | [Day 33](#day-33) | [Day 40](#day-40) | [Day 47](#day-47) | [Day 54](#day-54) |
+| [Day 6](#day-6)  | [Day 13](#day-13) | [Day 20](#day-20) | [Day 27](#day-27) | [Day 34](#day-34) | [Day 41](#day-41) | [Day 48](#day-48) | [Day 55](#day-55) |
+| [Day 7](#day-7)  | [Day 14](#day-14) | [Day 21](#day-21) | [Day 28](#day-28) | [Day 35](#day-35) | [Day 42](#day-42) | [Day 49](#day-49) | [Day 56](#day-56) |
 
-| Week 5        | Week 6        | Week 7        | Week 8        |
-|---------------|---------------|---------------|---------------|
-| [Day 29](#day-29) | [Day 36](#day-36) | [Day 43](#day-43) | [Day 50](#day-50) |
-| [Day 30](#day-30) | [Day 37](#day-37) | [Day 44](#day-44) | [Day 51](#day-51) |
-| [Day 31](#day-31) | [Day 38](#day-38) | [Day 45](#day-45) | [Day 52](#day-52) |
-| [Day 32](#day-32) | [Day 39](#day-39) | [Day 46](#day-46) | [Day 53](#day-53) |
-| [Day 33](#day-33) | [Day 40](#day-40) | [Day 47](#day-47) | [Day 54](#day-54) |
-| [Day 34](#day-34) | [Day 41](#day-41) | [Day 48](#day-48) | [Day 55](#day-55) |
-| [Day 35](#day-35) | [Day 42](#day-42) | [Day 49](#day-49) | [Day 56](#day-56) |
+</div>
+
+<div align="center">
 
 | Week 9        |
 |---------------|
 | [Day 57](#day-57) |
 
 </div>
-
-<div align="center">
-
-**Week 1** &nbsp;&nbsp;&nbsp; **Week 2** &nbsp;&nbsp;&nbsp; **Week 3** &nbsp;&nbsp;&nbsp; **Week 4**
-
-[Day 1](#day-1) &nbsp; [Day 8](#day-8) &nbsp; [Day 15](#day-15) &nbsp; [Day 22](#day-22)  
-[Day 2](#day-2) &nbsp; [Day 9](#day-9) &nbsp; [Day 16](#day-16) &nbsp; [Day 23](#day-23)  
-[Day 3](#day-3) &nbsp; [Day 10](#day-10) &nbsp; [Day 17](#day-17) &nbsp; [Day 24](#day-24)  
-[Day 4](#day-4) &nbsp; [Day 11](#day-11) &nbsp; [Day 18](#day-18) &nbsp; [Day 25](#day-25)  
-[Day 5](#day-5) &nbsp; [Day 12](#day-12) &nbsp; [Day 19](#day-19) &nbsp; [Day 26](#day-26)  
-[Day 6](#day-6) &nbsp; [Day 13](#day-13) &nbsp; [Day 20](#day-20) &nbsp; [Day 27](#day-27)  
-[Day 7](#day-7) &nbsp; [Day 14](#day-14) &nbsp; [Day 21](#day-21) &nbsp; [Day 28](#day-28)
-
-</div>
-
-
-
 
 
 ## Daily Progress Log
