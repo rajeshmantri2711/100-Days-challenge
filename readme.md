@@ -289,7 +289,9 @@ Learned Search Processing Language (SPL).
 - Searching, filtering, and visualizing logs  
 
 **Proof of Concept:**  
-- [day_18](Images-PoC/day_18.jpg)
+- [day_18](Images-PoC/day_18.png)
+- [day_18_1](Images-PoC/day_18_1.png)
+
 
 ---
 
@@ -301,7 +303,7 @@ Enrolled in Google Security Operations – Fundamentals.
 - Introduction to Google Chronicle  
 
 **Proof of Concept:**  
-- [day_19](Images-PoC/day_19.jpg)
+- [day_19](Images-PoC/day_19.png)
 
 ---
 
@@ -310,10 +312,8 @@ Enrolled in Google Security Operations – Fundamentals.
 Linux revision.
 
 **Learning and Outcome:**  
-- Linux boot process  
-
-**Proof of Concept:**  
-- [day_20](Images-PoC/day_20.jpg)
+- Linux boot process
+- Linux File system
 
 ---
 
@@ -326,7 +326,9 @@ Started SOC 101 course.
 - SOC workflows  
 
 **Proof of Concept:**  
-- [day_21](Images-PoC/day_21.jpg)
+- [day_21](Images-PoC/day_21.png)
+- [day_21_1](Images-PoC/day_21_1.png)
+
 
 ---
 
