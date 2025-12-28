@@ -5,7 +5,7 @@
 This repository documents my **100 Days of Cybersecurity Challenge**, which started on **1st November 2025**.  
 The goal of this challenge is to consistently build practical cybersecurity skills through hands-on labs, simulations, tooling, and documentation.
 
-This repository serves as a **public learning log and portfolio**, demonstrating technical growth, discipline, and real-world SOC and Blue Team skill development.
+This repository serves as a **public learning log and portfolio**, demonstrating technical growth, discipline, and real world SOC and Blue Team skill development.
 
 ---
 
@@ -19,7 +19,7 @@ This repository serves as a **public learning log and portfolio**, demonstrating
 
 ---
 
-## Daily Progress Log (with Proof)
+## Daily Progress Log
 
 ---
 
@@ -445,6 +445,448 @@ Installed Sysmon for Linux (system failure occurred).
 - Endpoint telemetry  
 
 ---
+---
+
+## DAY 29
+**Activity:**  
+Explored free EDR solutions for Linux.
+
+**Learning and Outcome:**  
+- Evaluated OpenEDR and Velociraptor  
+- Faced setup challenges with OpenEDR  
+- Successfully deployed Velociraptor initially, but integration with Splunk caused issues  
+
+**Proof of Concept:**  
+- [day_29](Images-PoC/day_29_1.png)
+
+---
+
+## DAY 30
+**Activity:**  
+Configured Velociraptor and expanded Splunk logging.
+
+**Learning and Outcome:**  
+- Fully configured Velociraptor on Linux  
+- Attempted Splunk integration (postponed due to compatibility issues)  
+- Installed Splunk Universal Forwarder on Windows to collect Windows logs  
+
+**Proof of Concept:**  
+- [day_30](Images-PoC/day_30_1.png)
+- [day_30_1](Images-PoC/day_30_2.png)
+
+---
+
+## DAY 31
+**Activity:**  
+Enhanced Windows monitoring and network detection.
+
+**Learning and Outcome:**  
+- Configured Sysmon on Windows  
+- Forwarded Sysmon logs to Splunk  
+- Installed Suricata and began log forwarding configuration  
+
+**Proof of Concept:**  
+- [day_31](Images-PoC/day_31.png)
+- [day_31_1](Images-PoC/day_31_1.png)
+
+---
+
+## WEEK 5 REVIEW (Day 29 – Day 31)
+**Focus:**  
+Endpoint detection, log forwarding, and SIEM integration.
+
+**Key Takeaways:**  
+- Practical experience with Linux and Windows telemetry  
+- Understanding limitations and troubleshooting SIEM integrations  
+- Improved visibility into endpoint and network activity  
+
+---
+
+## DAY 32
+**Activity:**  
+Configured Suricata to forward logs to Splunk.
+
+**Learning and Outcome:**  
+- Successfully ingested IDS alerts into Splunk  
+- Transformed raw Suricata logs into readable and actionable data  
+
+**Proof of Concept:**  
+- [day_32](Images-PoC/day_32.png)
+
+---
+
+## DAY 33
+**Activity:**  
+Deployed Velociraptor (DFIR tool) on Linux and built Splunk dashboards.
+
+**Learning and Outcome:**  
+- Learned DFIR data collection workflows  
+- Designed detailed Splunk dashboards ready for live telemetry  
+
+**Proof of Concept:**  
+- [day_33](Images-PoC/day_33.png)
+- [day_33](Images-PoC/day_33_1.png)
+
+---
+
+## DAY 34
+**Activity:**  
+Deployed Caldera for automated red team simulations.
+
+**Learning and Outcome:**  
+- Learned adversary emulation concepts  
+- Encountered Splunk ingestion issues and began troubleshooting  
+
+**Proof of Concept:**  
+- [day_34](Images-PoC/day_34.png)
+- [day_34_1](Images-PoC/day_34_1.png)
+
+---
+
+## DAY 35
+**Activity:**  
+Resolved Splunk log ingestion issues.
+
+**Learning and Outcome:**  
+- Successfully collected logs from multiple operating systems  
+- Improved understanding of log pipelines and troubleshooting methods  
+
+**Proof of Concept:**  
+- [day_35](Images-PoC/day_35.png)
+
+---
+
+## DAY 36
+**Activity:**  
+Started Advent of Cyber on TryHackMe.
+
+**Learning and Outcome:**  
+- Began structured daily security challenges covering multiple domains  
+
+**Proof of Concept:**  
+- [day_36](Images-PoC/day_36-1.png)
+- [day_36](Images-PoC/day_34_thm.png)
 
 
-This repository will continue to be updated with daily logs, proof-of-concept artifacts, and weekly reviews.
+---
+
+## DAY 37
+**Activity:**  
+Completed BTLO labs and continued Advent of Cyber.
+
+**Learning and Outcome:**  
+- Strengthened Blue Team investigation skills  
+
+**Proof of Concept:**  
+- [day_37](Images-PoC/day_37.png)
+- [day_37_1](Images-PoC/day_37_1.png)
+- [day_37_2](Images-PoC/day_37_2.png)
+- [day_37_3](Images-PoC/day_37_3.png)
+
+---
+
+## DAY 38
+**Activity:**  
+Completed a ransomware-focused lab from BTLO.
+
+**Learning and Outcome:**  
+- Learned ransomware behavior and response techniques  
+
+**Proof of Concept:**  
+- [day_38](Images-PoC/day_38.png)
+
+---
+
+## WEEK 6 REVIEW (Day 32 – Day 38)
+**Focus:**  
+SOC tooling, DFIR, adversary emulation, and ransomware analysis.
+
+**Key Takeaways:**  
+- IDS and endpoint telemetry integration  
+- DFIR tooling exposure  
+- Blue Team response to simulated threats  
+
+---
+
+## DAY 39
+**Activity:**  
+Completed two Advent of Cyber rooms.
+
+**Learning and Outcome:**  
+- Revised Splunk fundamentals  
+- Learned how AI can be leveraged in offensive security  
+
+**Proof of Concept:**  
+- [day_39](Images-PoC/day_39.png)
+- [day_39_1](Images-PoC/day_39_1.png)
+
+---
+
+## DAY 40
+**Activity:**  
+Completed AoC IDOR room.
+
+**Learning and Outcome:**  
+- Understood Insecure Direct Object Reference vulnerabilities  
+- Learned access control exploitation techniques  
+
+**Proof of Concept:**  
+- [day_40](Images-PoC/day_40.png)
+
+---
+
+## DAY 41
+**Activity:**  
+Completed AoC malware analysis room.
+
+**Learning and Outcome:**  
+- Analyzed malware persistence mechanisms  
+- Studied Windows registry modifications used by malware  
+
+**Proof of Concept:**  
+- [day_41](Images-PoC/day_41.png)
+
+---
+
+## DAY 42
+**Activity:**  
+Completed AoC network discovery room.
+
+**Learning and Outcome:**  
+- Used Nmap for network enumeration  
+- Learned FTP and MySQL discovery techniques  
+
+**Proof of Concept:**  
+- [day_42](Images-PoC/day_42.png)
+
+---
+
+## DAY 43
+**Activity:**  
+Completed AoC Prompt Injection room.
+
+**Learning and Outcome:**  
+- Learned prompt injection concepts  
+- Gained exposure to LLM-related security risks  
+
+**Proof of Concept:**  
+- [day_43](Images-PoC/day_43.png)
+
+---
+
+## DAY 44
+**Activity:**  
+Completed AoC password security room.
+
+**Learning and Outcome:**  
+- Learned hashing algorithms  
+- Practiced password brute-forcing using wordlists  
+
+**Proof of Concept:**  
+- [day_44](Images-PoC/day_44.png)
+
+---
+
+## DAY 45
+**Activity:**  
+Completed AoC SOC alert triaging room using Microsoft Sentinel.
+
+**Learning and Outcome:**  
+- Performed alert triage  
+- Conducted log hunting and investigations in Sentinel  
+
+**Proof of Concept:**  
+- [day_45](Images-PoC/day_45.png)
+
+---
+
+## WEEK 7 REVIEW (Day 39 – Day 45)
+**Focus:**  
+Web vulnerabilities, malware analysis, network discovery, and SOC triage.
+
+**Key Takeaways:**  
+- Practical vulnerability analysis  
+- SOC alert investigation workflows  
+- Improved familiarity with SIEM platforms  
+
+---
+
+## DAY 46
+**Activity:**  
+Completed AoC XSS room.
+
+**Learning and Outcome:**  
+- Learned reflected and stored XSS techniques  
+
+**Proof of Concept:**  
+- [day_46](Images-PoC/day_46.png)
+
+---
+
+## DAY 47
+**Activity:**  
+Completed AoC phishing room.
+
+**Learning and Outcome:**  
+- Identified phishing indicators  
+- Differentiated phishing attacks from spam  
+
+**Proof of Concept:**  
+- [day_47](Images-PoC/day_47.png)
+
+---
+
+## DAY 48
+**Activity:**  
+Completed AoC YARA rules room.
+
+**Learning and Outcome:**  
+- Learned YARA rule syntax  
+- Created custom detection rules  
+
+**Proof of Concept:**  
+- [day_48](Images-PoC/day_48.png)
+
+---
+
+## DAY 49
+**Activity:**  
+Completed AoC Containers and Forensics room.
+
+**Learning and Outcome:**  
+- Learned container security risks  
+- Used Splunk for forensic analysis  
+
+**Proof of Concept:**  
+- [day_49](Images-PoC/day_49_1.png)
+- [day_49_1](Images-PoC/day_49_2.png)
+
+---
+
+## DAY 50
+**Activity:**  
+Started Splunk Boss of the SOC (Introduction).
+
+**Learning and Outcome:**  
+- Learned Splunk navigation  
+- Used commands such as `stats` and `_time`  
+
+**Proof of Concept:**  
+- [day_50](Images-PoC/day_50.png)
+
+---
+
+## DAY 51
+**Activity:**  
+Completed AoC forensics room.
+
+**Learning and Outcome:**  
+- Navigated Windows registry  
+- Understood registry artifacts and their significance  
+
+**Proof of Concept:**  
+- [day_51](Images-PoC/day_51.png)
+
+---
+
+## WEEK 8 REVIEW (Day 46 – Day 51)
+**Focus:**  
+Web attacks, phishing, YARA, and digital forensics.
+
+**Key Takeaways:**  
+- Improved detection logic  
+- Forensic artifact analysis  
+- SIEM-based investigations  
+
+---
+
+## DAY 52
+**Activity:**  
+Concept revision due to VM issues.
+
+**Learning and Outcome:**  
+- Revised Security+ topics  
+- Reviewed Linux filesystem and boot process  
+
+**Proof of Concept:**  
+- [day_52](Images-PoC/day_52.png)
+
+---
+
+## DAY 53
+**Activity:**  
+Completed AoC CyberChef and obfuscation rooms.
+
+**Learning and Outcome:**  
+- Encoding and decoding techniques  
+- Encryption and obfuscation fundamentals  
+
+**Proof of Concept:**  
+- [day_53](Images-PoC/day_53.png)
+- [day_53_1](Images-PoC/day_53_1.png)
+
+---
+
+## DAY 54
+**Activity:**  
+Completed AoC ICS/Modbus room.
+
+**Learning and Outcome:**  
+- Learned PLC, SCADA, and Modbus fundamentals  
+- Identified ICS security weaknesses  
+
+**Proof of Concept:**  
+- [day_54](Images-PoC/day_54.png)
+
+---
+
+## DAY 55
+**Activity:**  
+Completed AoC Race Condition room.
+
+**Learning and Outcome:**  
+- Learned race condition vulnerabilities  
+- Used Burp Suite for testing  
+
+**Proof of Concept:**  
+- [day_55](Images-PoC/day_55.png)
+
+---
+
+## DAY 56
+**Activity:**  
+Completed AoC malware analysis room.
+
+**Learning and Outcome:**  
+- Learned about HTA files  
+- Studied fileless execution techniques  
+
+**Proof of Concept:**  
+- [day_56](Images-PoC/day_56.png)
+
+---
+
+## DAY 57
+**Activity:**  
+Completed Advent of Cyber 2025.
+
+**Learning and Outcome:**  
+- C2 detection using Zeek and RITA  
+- AWS security fundamentals  
+- Exploitation techniques using curl  
+
+**Proof of Concept:**  
+- [day_57](Images-PoC/day_57.png)
+- [day_57_1](Images-PoC/day_57_1.png)
+- [day_57_2](Images-PoC/day_57_2.png)
+- [day_57_2](Images-PoC/day_57_3.png)
+
+---
+
+## WEEK 9 REVIEW (Day 52 – Day 57)
+**Focus:**  
+Forensics, malware analysis, ICS security, cloud security, and C2 detection.
+
+---
+
+This repository will continue to be updated weekly.
