@@ -1,3 +1,4 @@
 # Week 15
 
-Proof of concept images for Week 15.
+## Daily Progress
+No entries for this week yet.

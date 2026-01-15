@@ -1,3 +1,4 @@
 # Week 13
 
-Proof of concept images for Week 13.
+## Daily Progress
+No entries for this week yet.

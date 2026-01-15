@@ -1,3 +1,4 @@
 # Week 16
 
-Proof of concept images for Week 16.
+## Daily Progress
+No entries for this week yet.
