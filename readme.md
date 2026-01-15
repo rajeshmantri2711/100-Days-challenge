@@ -22,23 +22,42 @@ This repository serves as a **public learning log and portfolio**, demonstrating
 
 <div align="center">
 
-| Week 1        | Week 2        | Week 3        | Week 4        | Week 5        | Week 6        | Week 7        | Week 8        |
-|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
-| [Day 1](#day-1)  | [Day 8](#day-8)  | [Day 15](#day-15) | [Day 22](#day-22) | [Day 29](#day-29) | [Day 36](#day-36) | [Day 43](#day-43) | [Day 50](#day-50) |
-| [Day 2](#day-2)  | [Day 9](#day-9)  | [Day 16](#day-16) | [Day 23](#day-23) | [Day 30](#day-30) | [Day 37](#day-37) | [Day 44](#day-44) | [Day 51](#day-51) |
-| [Day 3](#day-3)  | [Day 10](#day-10) | [Day 17](#day-17) | [Day 24](#day-24) | [Day 31](#day-31) | [Day 38](#day-38) | [Day 45](#day-45) | [Day 52](#day-52) |
-| [Day 4](#day-4)  | [Day 11](#day-11) | [Day 18](#day-18) | [Day 25](#day-25) | [Day 32](#day-32) | [Day 39](#day-39) | [Day 46](#day-46) | [Day 53](#day-53) |
-| [Day 5](#day-5)  | [Day 12](#day-12) | [Day 19](#day-19) | [Day 26](#day-26) | [Day 33](#day-33) | [Day 40](#day-40) | [Day 47](#day-47) | [Day 54](#day-54) |
-| [Day 6](#day-6)  | [Day 13](#day-13) | [Day 20](#day-20) | [Day 27](#day-27) | [Day 34](#day-34) | [Day 41](#day-41) | [Day 48](#day-48) | [Day 55](#day-55) |
-| [Day 7](#day-7)  | [Day 14](#day-14) | [Day 21](#day-21) | [Day 28](#day-28) | [Day 35](#day-35) | [Day 42](#day-42) | [Day 49](#day-49) | [Day 56](#day-56) |
+### Part 1: Days 1 – 35
 
-</div>
+| Week 1 | Week 2 | Week 3 | Week 4 | Week 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| [Day 1](#day-1) | [Day 8](#day-8) | [Day 15](#day-15) | [Day 22](#day-22) | [Day 29](#day-29) |
+| [Day 2](#day-2) | [Day 9](#day-9) | [Day 16](#day-16) | [Day 23](#day-23) | [Day 30](#day-30) |
+| [Day 3](#day-3) | [Day 10](#day-10) | [Day 17](#day-17) | [Day 24](#day-24) | [Day 31](#day-31) |
+| [Day 4](#day-4) | [Day 11](#day-11) | [Day 18](#day-18) | [Day 25](#day-25) | [Day 32](#day-32) |
+| [Day 5](#day-5) | [Day 12](#day-12) | [Day 19](#day-19) | [Day 26](#day-26) | [Day 33](#day-33) |
+| [Day 6](#day-6) | [Day 13](#day-13) | [Day 20](#day-20) | [Day 27](#day-27) | [Day 34](#day-34) |
+| [Day 7](#day-7) | [Day 14](#day-14) | [Day 21](#day-21) | [Day 28](#day-28) | [Day 35](#day-35) |
 
-<div align="center">
 
-| Week 9        |
-|---------------|
-| [Day 57](#day-57) |
+### Part 2: Days 36 – 70
+
+| Week 6 | Week 7 | Week 8 | Week 9 | Week 10 |
+| :---: | :---: | :---: | :---: | :---: |
+| [Day 36 🟩](#day-36) | [Day 43 🟩](#day-43) | [Day 50 🟩](#day-50) | [Day 57 🟩](#day-57) | [Day 64 🟩](#day-64) |
+| [Day 37 🟩](#day-37) | [Day 44 🟩](#day-44) | [Day 51 🟩](#day-51) | [Day 58 🟩](#day-58) | [Day 65 🟩](#day-65) |
+| [Day 38 🟩](#day-38) | [Day 45 🟩](#day-45) | [Day 52 🟩](#day-52) | [Day 59 🟩](#day-59) | [Day 66 🟩](#day-66) |
+| [Day 39 🟩](#day-39) | [Day 46 🟩](#day-46) | [Day 53 🟩](#day-53) | [Day 60 🟩](#day-60) | [Day 67 🟩](#day-67) |
+| [Day 40 🟩](#day-40) | [Day 47 🟩](#day-47) | [Day 54 🟩](#day-54) | [Day 61 🟩](#day-61) | [Day 68 🟩](#day-68) |
+| [Day 41 🟩](#day-41) | [Day 48 🟩](#day-48) | [Day 55 🟩](#day-55) | [Day 62 🟩](#day-62) | [Day 69 🟩](#day-69) |
+| [Day 42 🟩](#day-42) | [Day 49 🟩](#day-49) | [Day 56 🟩](#day-56) | [Day 63 🟩](#day-63) | [Day 70 🟩](#day-70) |
+
+### Part 3: Days 71 – 100
+
+| Week 11 | Week 12 | Week 13 | Week 14 | Week 15 |
+| :---: | :---: | :---: | :---: | :---: |
+| [Day 71 🟩](#day-71) | Day 78 ⬜ | Day 85 ⬜ | Day 92 ⬜ | Day 99 ⬜ |
+| [Day 72 🟩](#day-72) | Day 79 ⬜ | Day 86 ⬜ | Day 93 ⬜ | Day 100 ⬜|
+| [Day 73 🟩](#day-73) | Day 80 ⬜ | Day 87 ⬜ | Day 94 ⬜ | | 
+| [Day 74 🟩](#day-74) | Day 81 ⬜ | Day 88 ⬜ | Day 95 ⬜ | | 
+| [Day 75 🟩](#day-75) | Day 82 ⬜ | Day 89 ⬜ | Day 96 ⬜ | | 
+| [Day 76 🟩](#day-76) | Day 83 ⬜ | Day 90 ⬜ | Day 97 ⬜ | | 
+| Day 77 ⬜ | Day 84 ⬜ | Day 91 ⬜ | Day 98 ⬜ | | 
 
 </div>
 
@@ -890,27 +909,276 @@ Completed AoC malware analysis room.
 
 ---
 
+
 ## DAY 57
-**Activity:**  
-Completed Advent of Cyber 2025.
+**Activity:** Completed Advent of Cyber 2025.
 
-**Learning and Outcome:**  
-- C2 detection using Zeek and RITA  
-- AWS security fundamentals  
-- Exploitation techniques using curl  
+**Learning and Outcome:** - **C2 Detection:** Used Zeek and RITA to identify beaconing behavior and Command & Control channels.  
+- **AWS Security:** Explored cloud-specific vulnerabilities and IAM misconfigurations.  
+- **Exploitation:** Practiced data exfiltration and interaction using `curl`.
 
-**Proof of Concept:**  
-- [day_57](Images-PoC/week_9/day_57.png)
-- [day_57_1](Images-PoC/week_9/day_57_1.png)
-- [day_57_2](Images-PoC/week_9/day_57_2.png)
-- [day_57_2](Images-PoC/week_9/day_57_3.png)
+**Proof of Concept:** - [day_57](Images-PoC/day_57.png)
 
 ---
 
-## WEEK 9 REVIEW (Day 52 – Day 57)
-**Focus:**  
-Forensics, malware analysis, ICS security, cloud security, and C2 detection.
+## DAY 58
+**Activity:** Completed two challenges from Blue Team Labs Online (BTLO) focusing on forensics and malware.
+
+**Learning and Outcome:** - **Image Steganography:** Used tools like `exiftool` to inspect metadata and uncover hidden information within image files.  
+- **Malware Analysis:** Analyzed suspicious files to determine capabilities and indicators of compromise (IOCs).  
+
+**Proof of Concept:** - [day_58](Images-PoC/day_58.png)
 
 ---
+
+## DAY 59
+**Activity:** Completed multiple BTLO scenarios: *PowerShell*, *Secrets*, *Log Analysis*, and *Employee of the Year*.
+
+**Learning and Outcome:** - **PowerShell De-obfuscation:** Analyzed suspicious scripts using text editors and VirusTotal to understand execution flow and payload behavior.  
+- **Web Identity (JWT):** Decoded JSON Web Tokens, identified privilege escalation risks via admin claims, and generated secure low-privilege tokens.  
+- **Log Analysis:** Investigated web application logic abuse to detect root access exploits that bypassed standard bash history logging.  
+- **Digital Forensics:** Recovered deleted files and extracted hidden flags using forensic tools like `PhotoRec`, `Scalpel`, `strings`, and `exiftool`.
+
+**Proof of Concept:** - [day_59](Images-PoC/day_59.png)
+
+---
+
+## DAY 60
+**Activity:** Completed the *Introduction to Splunk* module by Splunk BOTS (Boss of the SOC).
+
+**Learning and Outcome:** - **SPL Proficiency:** Gained hands-on experience with core commands including `stats`, `eval`, and `lookups`.  
+- **Data Enrichment:** Learned how lookups enrich raw log data with external context.  
+
+**Proof of Concept:** - [day_60](Images-PoC/day_60.png)
+
+---
+
+## DAY 61
+**Activity:** Completed a Network Analysis challenge on BTLO.
+
+**Learning and Outcome:** - **Traffic Analysis:** Analyzed PCAP files to identify malicious traffic patterns.  
+- **Protocol Inspection:** Investigated packet headers and payloads to reconstruct network events.
+
+**Proof of Concept:** - [day_61](Images-PoC/day_61.png)
+
+---
+
+## DAY 62
+**Activity:** Completed a Reverse Engineering challenge on BTLO.
+
+**Learning and Outcome:** - **Static Analysis:** Examined binary properties without execution to identify strings and potential functionality.  
+- **Code Logic:** Understood basic assembly or decompiled code flow to determine the program's objective.
+
+**Proof of Concept:** - [day_62](Images-PoC/day_62.png)
+
+---
+
+## DAY 63
+**Activity:** Completed the *D3FEND* challenge on BTLO.
+
+**Learning and Outcome:** - **MITRE D3FEND:** Applied the MITRE D3FEND framework to map defensive countermeasures against specific offensive techniques.  
+- **Defensive Architecture:** Learned how to select appropriate artifacts and defensive mechanisms for specific threat scenarios.
+
+**Proof of Concept:** - [day_63](Images-PoC/day_63.png)
+
+---
+
+## WEEK 9 REVIEW (Day 57 – Day 63)
+**Focus:** Blue Team operations, heavy emphasis on BTLO scenarios (Forensics, Malware, Networking), and Splunk BOTS.
+
+**Key Skills Gained:** - **Forensics:** File recovery and metadata analysis (ExifTool, PhotoRec).  
+- **Script Analysis:** PowerShell de-obfuscation and JWT manipulation.  
+- **Frameworks:** Applied MITRE D3FEND for countermeasure selection.  
+- **SIEM:** Enhanced Splunk SPL skills via BOTS datasets.
+
+---
+                                                                                                                                ## DAY 64
+**Activity:**
+Splunk Exploration: Writing Custom SPL and Field Extractions.
+
+**Learning and Outcome:**
+- **Active Endpoint Detection:** Wrote SPL to track endpoints active within the last 5 minutes across Linux (`linux_sysmon_xml`) and Windows (`XmlWinEventLog`).
+- **Field Extractions:** Configured permanent field extractions in Splunk Settings to normalize `EventID`, `Image`, and `CommandLine` from XML data, replacing the need for repetitive `rex` commands in searches.
+- **Optimization:** Reduced SPL complexity and improved search performance by persisting regex logic.
+
+**Technical Note (SPL):**
+*List Active Endpoints:*
+```splunk
+index=* sourcetype IN ("linux_sysmon_xml", "XmlWinEventLog")
+| stats latest(_time) AS last_seen BY host
+| where now()-last_seen <= 300
+| eval last_seen=strftime(last_seen, "%Y-%m-%d %H:%M:%S")
+| table host last_seen
+```
+
+**Proof of Concept:**
+- [day_64](Images-PoC/day_64.png)
+
+---
+
+## DAY 65
+**Activity:**
+Studied SOC Interview Questions and Answers (Remote Study).
+
+**Learning and Outcome:**
+- **Interview Prep:** Reviewed core SOC concepts often asked in interviews.
+- **Theory:** Reinforced knowledge of incident response lifecycles and standard analyst triage procedures.
+
+**Proof of Concept:**
+- [day_65](Images-PoC/day_65.png)
+
+---
+
+## DAY 66
+**Activity:**
+Continued SOC Interview Preparation.
+
+**Learning and Outcome:**
+- **Scenario Analysis:** Studied behavioral and technical questions related to threat handling and false positive differentiation.
+
+**Proof of Concept:**
+- [day_66](Images-PoC/day_66.png)
+
+---
+
+## DAY 67
+**Activity:**
+Refining Splunk SPL for Log Normalization.
+
+**Learning and Outcome:**
+- **Log Formatting:** Wrote SPL to normalize output columns, making logs easier to read and present for reporting.
+- **Filtering:** Applied advanced filtering techniques to isolate relevant security events.
+
+**Proof of Concept:**
+- [day_67](Images-PoC/day_67.png)
+
+---
+
+## DAY 68
+**Activity:**
+Configured Splunk Alerts for Port Scanning.
+
+**Learning and Outcome:**
+- **Detection Logic:** Created an alert to trigger if a single IP scans multiple ports on a target within a short timeframe.
+- **Alerting:** Configured threshold conditions to detect Nmap-style scanning behavior.
+
+**Proof of Concept:**
+- [day_68](Images-PoC/day_68.png)
+
+---
+
+## DAY 69
+**Activity:**
+Completed *Report 2* Challenge from BTLO.
+
+**Learning and Outcome:**
+- **Reporting:** Practiced documenting findings and analyzing evidence provided in the challenge scenario.
+
+**Proof of Concept:**
+- [day_69](Images-PoC/day_69.png)
+
+---
+
+## DAY 70
+**Activity:**
+Completed *BEC-KY* investigation (BTLO) and explored LetsDefend.
+
+**Learning and Outcome:**
+- **BEC Investigation:** Analyzed a Business Email Compromise scenario involving phishing and social engineering.
+- **Case Management:** Explored LetsDefend to understand how SOC tickets are generated, assigned, and closed in a case management system.
+
+**Proof of Concept:**
+- [day_70](Images-PoC/day_70.png)
+
+---
+
+## WEEK 10 REVIEW (Day 64 – Day 70)
+**Focus:**
+Advanced Splunk configuration (Field Extractions, Alerting), SOC Interview preparation, and Case Management.
+
+**Key Skills Gained:**
+- **Splunk Admin:** Creating persistent field extractions and optimizing SPL.
+- **Detection:** Writing logic for port scan detection.
+- **Investigation:** Handling BEC cases and understanding SOC ticketing workflows.
+
+---
+
+## DAY 71
+**Activity:**
+Completed *Malware Analysis - Ransomware Script* (BTLO).
+
+**Learning and Outcome:**
+- **Script Analysis:** Deconstructed a ransomware script to understand encryption methods and propagation logic.
+- **IOC Extraction:** Identified indicators of compromise from the malicious script.
+
+**Proof of Concept:**
+- [day_71](Images-PoC/day_71.png)
+
+---
+
+## DAY 72
+**Activity:**
+Researched Splunk SOAR and Qualys Vulnerability Management.
+
+**Learning and Outcome:**
+- **SOAR:** Explored Splunk SOAR (trial version) to understand automation playbooks.
+- **Vulnerability Management:** Researched Qualys to prepare for integrating VM data into the Home Lab.
+
+**Proof of Concept:**
+- [day_72](Images-PoC/day_72.png)
+
+---
+
+## DAY 73
+**Activity:**
+Troubleshooted Sysmon/Splunk Duplicate Logs.
+
+**Learning and Outcome:**
+- **Troubleshooting:** Identified an issue where multiple Sysmon logs were generated for the same EventID/Command.
+- **Configuration:** Fixed the issue by modifying the Sysmon XML configuration.
+- **Resource:** [Custom Sysmon Config](https://github.com/rajeshmantri2711/Splunk-SOC-2025/blob/main/Sysmon/Sysmon-Linux/custom_config.xml)
+
+**Proof of Concept:**
+- [day_73](Images-PoC/day_73.png)
+
+---
+
+## DAY 74
+**Activity:**
+Completed SOC L1 Triaging Challenge (TryHackMe).
+
+**Learning and Outcome:**
+- **Alert Triage:** Practiced differentiating between True Positives and False Positives.
+- **Decision Making:** Analyzed context (time, user, parent process) to validate alerts.
+
+**Proof of Concept:**
+- [day_74](Images-PoC/day_74.png)
+
+---
+
+## DAY 75
+**Activity:**
+Configured Splunk to Forward Alerts to SOAR.
+
+**Learning and Outcome:**
+- **Integration:** Connected Splunk Enterprise to Splunk SOAR to automate incident creation from alerts.
+- **Automation:** Established the pipeline required for future playbook execution.
+
+**Proof of Concept:**
+- [day_75](Images-PoC/day_75.png)
+
+---
+
+## DAY 76
+**Activity:**
+Wrote Custom Suricata Rules for SSH.
+
+**Learning and Outcome:**
+- **Signature Development:** Wrote Suricata rules to specifically detect SSH brute force attempts.
+- **Network Defense:** Tuned rules to alert on repeated failed login attempts from external IPs.
+
+**Proof of Concept:**
+- [day_76](Images-PoC/day_76.png)
+
 
 This repository will continue to be updated weekly.
