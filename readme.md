@@ -61,7 +61,7 @@ Completed the TryHackMe *Brute It* room.
 - Write-up: https://github.com/rajeshmantri2711/Try-Hack-Me/tree/main/Rooms/bruteit  
 
 **Proof of Concept:**  
-- [day_1](Images-PoC/week_1day_1.jpg)
+- [day_1](Images-PoC/week_1/day_1.jpg)
 
 ---
 
@@ -75,7 +75,7 @@ Completed OverTheWire Bandit CTF up to level 15.
 - Hashes    
 
 **Proof of Concept:**  
-- [day_2](Images-PoC/day_2.jpg)
+- [day_2](Images-PoC/week_1/day_2.jpg)
 
 ---
 
@@ -88,7 +88,7 @@ Started building a small business network in Packet Tracer.
 - Improved understanding of network topology  
 
 **Proof of Concept:**  
-- [day_3](Images-PoC/day_3.png)
+- [day_3](Images-PoC/week_1/day_3.png)
 
 ---
 
@@ -101,7 +101,7 @@ Continued network configuration.
 - Learned VLAN concepts and segmentation  
 
 **Proof of Concept:**  
-- [day_4](Images-PoC/day_4.png)
+- [day_4](Images-PoC/week_1/day_4.png)
 
 ---
 
@@ -114,7 +114,7 @@ Started SOC Level 1 (Legacy) modules on TryHackMe.
 - Incident prioritization using the Pyramid of Pain  
 
 **Proof of Concept:**  
-- [day_5](Images-PoC/day_5.png)
+- [day_5](Images-PoC/week_1/day_5.png)
 
 ---
 
@@ -127,7 +127,7 @@ Studied Active Directory basics.
 - Importance of AD in SOC environments  
 
 **Proof of Concept:**  
-- [day_6](Images-PoC/day_6.png)
+- [day_6](Images-PoC/week_1/day_6.png)
 
 ---
 
@@ -140,8 +140,8 @@ Switched to OverTheWire due to technical issues.
 - Reinforced identity and access management concepts  
 
 **Proof of Concept:**  
-- [day_7](Images-PoC/day_7_1.png)
--  [day_7_1](Images-PoC/day_7_2.png)
+- [day_7](Images-PoC/week_1/day_7_1.png)
+-  [day_7_1](Images-PoC/week_1/day_7_2.png)
 
 ---
 
@@ -166,8 +166,8 @@ Completed Windows Fundamentals from the Pre-Security path.
 - Core system components  
 
 **Proof of Concept:**  
-- [day_8](Images-PoC/day_8.png)
-- [day_8_1](Images-PoC/day_8_1.png)
+- [day_8](Images-PoC/week_2/day_8.png)
+- [day_8_1](Images-PoC/week_2/day_8_1.png)
 
 
 ---
@@ -183,8 +183,8 @@ Configured Wazuh and Suricata for log analysis.
 - https://github.com/rajeshmantri2711/wazuh-linux  
 
 **Proof of Concept:**  
-- [day_9](Images-PoC/day_9.png)
-- [day_9_1](Images-PoC/day_9_1.png)
+- [day_9](Images-PoC/week_2/day_9.png)
+- [day_9_1](Images-PoC/week_2/day_9_1.png)
 
 
 ---
@@ -198,9 +198,9 @@ Integrated VirusTotal with Wazuh.
 - Malicious file identification and remediation  
 
 **Proof of Concept:**  
-- [day_10](Images-PoC/day_10.png)
-- [day_10_1](Images-PoC/day_10_1.png)
-- [day_10_2](Images-PoC/day_10_2.png)
+- [day_10](Images-PoC/week_2/day_10.png)
+- [day_10_1](Images-PoC/week_2/day_10_1.png)
+- [day_10_2](Images-PoC/week_2/day_10_2.png)
 
 
 ---
@@ -213,7 +213,7 @@ Enrolled in Microsoft Sentinel: Introduction.
 - Cloud SIEM fundamentals  
 
 **Proof of Concept:**  
-- [day_11](Images-PoC/day_11.png)
+- [day_11](Images-PoC/week_2/day_11.png)
 
 ---
 
@@ -225,8 +225,8 @@ Completed a SOC phishing simulation.
 - Identified true and false phishing emails  
 
 **Proof of Concept:**  
-- [day_12](Images-PoC/day_12_1.png)
-- [day_12_1](Images-PoC/day_12_2.png)
+- [day_12](Images-PoC/week_2/day_12_1.png)
+- [day_12_1](Images-PoC/week_2/day_12_2.png)
 
 
 ---
@@ -239,7 +239,7 @@ Completed Microsoft Sentinel: Introduction.
 - Core Sentinel capabilities  
 
 **Proof of Concept:**  
-- [day_13](Images-PoC/day_13.png)
+- [day_13](Images-PoC/week_2/day_13.png)
 
 ---
 
@@ -253,7 +253,7 @@ Returned to Hack The Box.
 - Privilege escalation  
 
 **Proof of Concept:**  
-- [day_14](Images-PoC/day_14.png)
+- [day_14](Images-PoC/week_2/day_14.png)
 
 ---
 
@@ -276,7 +276,7 @@ Completed HTB *Brutus*.
 - Analyzed system log files  
 
 **Proof of Concept:**  
-- [day_15](Images-PoC/day_15.png)
+- [day_15](Images-PoC/week_3/day_15.png)
 
 ---
 
@@ -288,7 +288,7 @@ Installed Splunk and configured data forwarding.
 - Indexers and forwarders  
 
 **Proof of Concept:**  
-- [day_16](Images-PoC/day_16.png)
+- [day_16](Images-PoC/week_3/day_16.png)
 
 ---
 
@@ -301,7 +301,7 @@ Used Splunk BOTS v3 dataset.
 - Initial log interpretation  
 
 **Proof of Concept:**  
-- [day_17](Images-PoC/day_17.png)
+- [day_17](Images-PoC/week_3/day_17.png)
 
 ---
 
@@ -313,8 +313,8 @@ Learned Search Processing Language (SPL).
 - Searching, filtering, and visualizing logs  
 
 **Proof of Concept:**  
-- [day_18](Images-PoC/day_18.png)
-- [day_18_1](Images-PoC/day_18_1.png)
+- [day_18](Images-PoC/week_3/day_18.png)
+- [day_18_1](Images-PoC/week_3/day_18_1.png)
 
 
 ---
@@ -327,7 +327,7 @@ Enrolled in Google Security Operations – Fundamentals.
 - Introduction to Google Chronicle  
 
 **Proof of Concept:**  
-- [day_19](Images-PoC/day_19.png)
+- [day_19](Images-PoC/week_3/day_19.png)
 
 ---
 
@@ -350,8 +350,8 @@ Started SOC 101 course.
 - SOC workflows  
 
 **Proof of Concept:**  
-- [day_21](Images-PoC/day_21.png)
-- [day_21_1](Images-PoC/day_21_1.png)
+- [day_21](Images-PoC/week_3/day_21.png)
+- [day_21_1](Images-PoC/week_3/day_21_1.png)
 
 
 ---
@@ -375,7 +375,7 @@ Continued SOC 101 course.
 - Attachment analysis  
 
 **Proof of Concept:**  
-- [day_22](Images-PoC/day_22.png)
+- [day_22](Images-PoC/week_4/day_22.png)
 
 ---
 
@@ -387,7 +387,7 @@ Manual Splunk testing due to network issues.
 - SPL reinforcement  
 
 **Proof of Concept:**  
-- [day_23](Images-PoC/day_23.png)
+- [day_23](Images-PoC/week_4/day_23.png)
 
 ---
 
@@ -400,8 +400,8 @@ Used Caldera for attack simulation.
 - Observed logs in Splunk  
 
 **Proof of Concept:**  
-- [day_24](Images-PoC/day_24_1(caldera).png)
-- [day_24_1](Images-PoC/day_24_2(spulnk).png)
+- [day_24](Images-PoC/week_4/day_24_1(caldera).png)
+- [day_24_1](Images-PoC/week_4/day_24_2(spulnk).png)
 
 ---
 
@@ -413,10 +413,10 @@ Built Splunk dashboards.
 - Data visualization  
 
 **Proof of Concept:**  
-- [day_25](Images-PoC/day_25_1.png)
-- [day_25_1](Images-PoC/day_25_2.png)
-- [day_25_2](Images-PoC/day_25_3.png)
-- [day_25_3](Images-PoC/day_25_4.png)
+- [day_25](Images-PoC/week_4/day_25_1.png)
+- [day_25_1](Images-PoC/week_4/day_25_2.png)
+- [day_25_2](Images-PoC/week_4/day_25_3.png)
+- [day_25_3](Images-PoC/week_4/day_25_4.png)
 
 
 ---
@@ -430,8 +430,8 @@ Completed BTLO *Piggy* and progressed in *Foxy*.
 - OSINT  
 
 **Proof of Concept:**  
-- [day_26](Images-PoC/day_26_1.png)
-- [day_26_1](Images-PoC/day_26_2.png)
+- [day_26](Images-PoC/week_4/day_26_1.png)
+- [day_26_1](Images-PoC/week_4/day_26_2.png)
 
 ---
 
@@ -444,7 +444,7 @@ Completed BTLO *Foxy*.
 - Malware analysis basics  
 
 **Proof of Concept:**  
-- [day_27](Images-PoC/day_27.png)
+- [day_27](Images-PoC/week_4/day_27.png)
 
 ---
 
@@ -456,7 +456,7 @@ Installed Sysmon for Linux (system failure occurred).
 - Explored free Linux EDR solutions  
 
 **Proof of Concept:**  
-- [day_28](Images-PoC/day_28.png)
+- [day_28](Images-PoC/week_4/day_28.png)
 
 ---
 
@@ -481,7 +481,7 @@ Explored free EDR solutions for Linux.
 - Successfully deployed Velociraptor initially, but integration with Splunk caused issues  
 
 **Proof of Concept:**  
-- [day_29](Images-PoC/day_29_1.png)
+- [day_29](Images-PoC/week_5/day_29_1.png)
 
 ---
 
@@ -495,8 +495,8 @@ Configured Velociraptor and expanded Splunk logging.
 - Installed Splunk Universal Forwarder on Windows to collect Windows logs  
 
 **Proof of Concept:**  
-- [day_30](Images-PoC/day_30_1.png)
-- [day_30_1](Images-PoC/day_30_2.png)
+- [day_30](Images-PoC/week_5/day_30_1.png)
+- [day_30_1](Images-PoC/week_5/day_30_2.png)
 
 ---
 
@@ -510,8 +510,8 @@ Enhanced Windows monitoring and network detection.
 - Installed Suricata and began log forwarding configuration  
 
 **Proof of Concept:**  
-- [day_31](Images-PoC/day_31.png)
-- [day_31_1](Images-PoC/day_31_1.png)
+- [day_31](Images-PoC/week_5/day_31.png)
+- [day_31_1](Images-PoC/week_5/day_31_1.png)
 
 ---
 
@@ -535,7 +535,7 @@ Configured Suricata to forward logs to Splunk.
 - Transformed raw Suricata logs into readable and actionable data  
 
 **Proof of Concept:**  
-- [day_32](Images-PoC/day_32.png)
+- [day_32](Images-PoC/week_5/day_32.png)
 
 ---
 
@@ -548,8 +548,8 @@ Deployed Velociraptor (DFIR tool) on Linux and built Splunk dashboards.
 - Designed detailed Splunk dashboards ready for live telemetry  
 
 **Proof of Concept:**  
-- [day_33](Images-PoC/day_33.png)
-- [day_33](Images-PoC/day_33_1.png)
+- [day_33](Images-PoC/week_5/day_33.png)
+- [day_33](Images-PoC/week_5/day_33_1.png)
 
 ---
 
@@ -562,8 +562,8 @@ Deployed Caldera for automated red team simulations.
 - Encountered Splunk ingestion issues and began troubleshooting  
 
 **Proof of Concept:**  
-- [day_34](Images-PoC/day_34.png)
-- [day_34_1](Images-PoC/day_34_1.png)
+- [day_34](Images-PoC/week_5/day_34.png)
+- [day_34_1](Images-PoC/week_5/day_34_1.png)
 
 ---
 
@@ -576,7 +576,7 @@ Resolved Splunk log ingestion issues.
 - Improved understanding of log pipelines and troubleshooting methods  
 
 **Proof of Concept:**  
-- [day_35](Images-PoC/day_35.png)
+- [day_35](Images-PoC/week_5/day_35.png)
 
 ---
 
@@ -588,8 +588,8 @@ Started Advent of Cyber on TryHackMe.
 - Began structured daily security challenges covering multiple domains  
 
 **Proof of Concept:**  
-- [day_36](Images-PoC/day_36-1.png)
-- [day_36](Images-PoC/day_34_thm.png)
+- [day_36](Images-PoC/week_6/day_36-1.png)
+- [day_36](Images-PoC/week_5/day_34_thm.png)
 
 
 ---
@@ -602,10 +602,10 @@ Completed BTLO labs and continued Advent of Cyber.
 - Strengthened Blue Team investigation skills  
 
 **Proof of Concept:**  
-- [day_37](Images-PoC/day_37.png)
-- [day_37_1](Images-PoC/day_37_1.png)
-- [day_37_2](Images-PoC/day_37_2.png)
-- [day_37_3](Images-PoC/day_37_3.png)
+- [day_37](Images-PoC/week_6/day_37.png)
+- [day_37_1](Images-PoC/week_6/day_37_1.png)
+- [day_37_2](Images-PoC/week_6/day_37_2.png)
+- [day_37_3](Images-PoC/week_6/day_37_3.png)
 
 ---
 
@@ -617,7 +617,7 @@ Completed a ransomware-focused lab from BTLO.
 - Learned ransomware behavior and response techniques  
 
 **Proof of Concept:**  
-- [day_38](Images-PoC/day_38.png)
+- [day_38](Images-PoC/week_6/day_38.png)
 
 ---
 
@@ -641,8 +641,8 @@ Completed two Advent of Cyber rooms.
 - Learned how AI can be leveraged in offensive security  
 
 **Proof of Concept:**  
-- [day_39](Images-PoC/day_39.png)
-- [day_39_1](Images-PoC/day_39_1.png)
+- [day_39](Images-PoC/week_6/day_39.png)
+- [day_39_1](Images-PoC/week_6/day_39_1.png)
 
 ---
 
@@ -655,7 +655,7 @@ Completed AoC IDOR room.
 - Learned access control exploitation techniques  
 
 **Proof of Concept:**  
-- [day_40](Images-PoC/day_40.png)
+- [day_40](Images-PoC/week_6/day_40.png)
 
 ---
 
@@ -668,7 +668,7 @@ Completed AoC malware analysis room.
 - Studied Windows registry modifications used by malware  
 
 **Proof of Concept:**  
-- [day_41](Images-PoC/day_41.png)
+- [day_41](Images-PoC/week_6/day_41.png)
 
 ---
 
@@ -681,7 +681,7 @@ Completed AoC network discovery room.
 - Learned FTP and MySQL discovery techniques  
 
 **Proof of Concept:**  
-- [day_42](Images-PoC/day_42.png)
+- [day_42](Images-PoC/week_6/day_42.png)
 
 ---
 
@@ -694,7 +694,7 @@ Completed AoC Prompt Injection room.
 - Gained exposure to LLM-related security risks  
 
 **Proof of Concept:**  
-- [day_43](Images-PoC/day_43.png)
+- [day_43](Images-PoC/week_7/day_43.png)
 
 ---
 
@@ -707,7 +707,7 @@ Completed AoC password security room.
 - Practiced password brute-forcing using wordlists  
 
 **Proof of Concept:**  
-- [day_44](Images-PoC/day_44.png)
+- [day_44](Images-PoC/week_7/day_44.png)
 
 ---
 
@@ -720,7 +720,7 @@ Completed AoC SOC alert triaging room using Microsoft Sentinel.
 - Conducted log hunting and investigations in Sentinel  
 
 **Proof of Concept:**  
-- [day_45](Images-PoC/day_45.png)
+- [day_45](Images-PoC/week_7/day_45.png)
 
 ---
 
@@ -743,7 +743,7 @@ Completed AoC XSS room.
 - Learned reflected and stored XSS techniques  
 
 **Proof of Concept:**  
-- [day_46](Images-PoC/day_46.png)
+- [day_46](Images-PoC/week_7/day_46.png)
 
 ---
 
@@ -756,7 +756,7 @@ Completed AoC phishing room.
 - Differentiated phishing attacks from spam  
 
 **Proof of Concept:**  
-- [day_47](Images-PoC/day_47.png)
+- [day_47](Images-PoC/week_7/day_47.png)
 
 ---
 
@@ -769,7 +769,7 @@ Completed AoC YARA rules room.
 - Created custom detection rules  
 
 **Proof of Concept:**  
-- [day_48](Images-PoC/day_48.png)
+- [day_48](Images-PoC/week_7/day_48.png)
 
 ---
 
@@ -782,8 +782,8 @@ Completed AoC Containers and Forensics room.
 - Used Splunk for forensic analysis  
 
 **Proof of Concept:**  
-- [day_49](Images-PoC/day_49_1.png)
-- [day_49_1](Images-PoC/day_49_2.png)
+- [day_49](Images-PoC/week_7/day_49_1.png)
+- [day_49_1](Images-PoC/week_7/day_49_2.png)
 
 ---
 
@@ -796,7 +796,7 @@ Started Splunk Boss of the SOC (Introduction).
 - Used commands such as `stats` and `_time`  
 
 **Proof of Concept:**  
-- [day_50](Images-PoC/day_50.png)
+- [day_50](Images-PoC/week_8/day_50.png)
 
 ---
 
@@ -809,7 +809,7 @@ Completed AoC forensics room.
 - Understood registry artifacts and their significance  
 
 **Proof of Concept:**  
-- [day_51](Images-PoC/day_51.png)
+- [day_51](Images-PoC/week_8/day_51.png)
 
 ---
 
@@ -833,7 +833,7 @@ Concept revision due to VM issues.
 - Reviewed Linux filesystem and boot process  
 
 **Proof of Concept:**  
-- [day_52](Images-PoC/day_52.png)
+- [day_52](Images-PoC/week_8/day_52.png)
 
 ---
 
@@ -846,8 +846,8 @@ Completed AoC CyberChef and obfuscation rooms.
 - Encryption and obfuscation fundamentals  
 
 **Proof of Concept:**  
-- [day_53](Images-PoC/day_53.png)
-- [day_53_1](Images-PoC/day_53_1.png)
+- [day_53](Images-PoC/week_8/day_53.png)
+- [day_53_1](Images-PoC/week_8/day_53_1.png)
 
 ---
 
@@ -860,7 +860,7 @@ Completed AoC ICS/Modbus room.
 - Identified ICS security weaknesses  
 
 **Proof of Concept:**  
-- [day_54](Images-PoC/day_54.png)
+- [day_54](Images-PoC/week_8/day_54.png)
 
 ---
 
@@ -873,7 +873,7 @@ Completed AoC Race Condition room.
 - Used Burp Suite for testing  
 
 **Proof of Concept:**  
-- [day_55](Images-PoC/day_55.png)
+- [day_55](Images-PoC/week_8/day_55.png)
 
 ---
 
@@ -886,7 +886,7 @@ Completed AoC malware analysis room.
 - Studied fileless execution techniques  
 
 **Proof of Concept:**  
-- [day_56](Images-PoC/day_56.png)
+- [day_56](Images-PoC/week_8/day_56.png)
 
 ---
 
@@ -900,10 +900,10 @@ Completed Advent of Cyber 2025.
 - Exploitation techniques using curl  
 
 **Proof of Concept:**  
-- [day_57](Images-PoC/day_57.png)
-- [day_57_1](Images-PoC/day_57_1.png)
-- [day_57_2](Images-PoC/day_57_2.png)
-- [day_57_2](Images-PoC/day_57_3.png)
+- [day_57](Images-PoC/week_9/day_57.png)
+- [day_57_1](Images-PoC/week_9/day_57_1.png)
+- [day_57_2](Images-PoC/week_9/day_57_2.png)
+- [day_57_2](Images-PoC/week_9/day_57_3.png)
 
 ---
 
