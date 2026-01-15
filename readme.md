@@ -61,7 +61,7 @@ Completed the TryHackMe *Brute It* room.
 - Write-up: https://github.com/rajeshmantri2711/Try-Hack-Me/tree/main/Rooms/bruteit  
 
 **Proof of Concept:**  
-- [day_1](Images-PoC/day_1.jpg)
+- [day_1](Images-PoC/week_1day_1.jpg)
 
 ---
 
