@@ -18,10 +18,10 @@ Completed Advent of Cyber 2025.
 - **Exploitation:** Practiced data exfiltration and interaction using `curl`.
 
 **Proof of Concept:**
-- [day_57](Images-PoC/week_9/day_57.png)
-- [day_57_1](Images-PoC/week_9/day_57_1.png)
-- [day_57_2](Images-PoC/week_9/day_57_2.png)
-- [day_57_3](Images-PoC/week_9/day_57_3.png)
+- [day_57](day_57.png)
+- [day_57_1](day_57_1.png)
+- [day_57_2](day_57_2.png)
+- [day_57_3](day_57_3.png)
 
 ---
 
@@ -34,8 +34,8 @@ Completed two challenges from Blue Team Labs Online (BTLO) focusing on forensics
 - **Malware Analysis:** Analyzed suspicious files to determine capabilities and indicators of compromise (IOCs).  
 
 **Proof of Concept:** 
-- [day_58](Images-PoC/week_9/day_58.png)
-- [day_58_1](Images-PoC/week_9/day_58_1.png)
+- [day_58](day_58.png)
+- [day_58_1](day_58_1.png)
 
 
 ---
@@ -51,10 +51,10 @@ Completed multiple BTLO scenarios: *PowerShell*, *Secrets*, *Log Analysis*, and 
 - **Digital Forensics:** Recovered deleted files and extracted hidden flags using forensic tools like `PhotoRec`, `Scalpel`, `strings`, and `exiftool`.
 
 **Proof of Concept:**
-- [day_59](Images-PoC/week_9/day_59.png)
-- [day_59_1](Images-PoC/week_9/day_59_1.png)
-- [day_59_2](Images-PoC/week_9/day_59_2.png)
-- [day_59_3](Images-PoC/week_9/day_59_3.png)
+- [day_59](day_59.png)
+- [day_59_1](day_59_1.png)
+- [day_59_2](day_59_2.png)
+- [day_59_3](day_59_3.png)
 
 
 
@@ -69,7 +69,7 @@ Completed the *Introduction to Splunk* module by Splunk BOTS (Boss of the SOC).
 - **Data Enrichment:** Learned how lookups enrich raw log data with external context.  
 
 **Proof of Concept:** 
-- [day_60](Images-PoC/week_9/day_60.png)
+- [day_60](day_60.png)
 
 ---
 
@@ -82,7 +82,7 @@ Completed a Network Analysis challenge on BTLO.
 - **Protocol Inspection:** Investigated packet headers and payloads to reconstruct network events.
 
 **Proof of Concept:** 
-- [day_61](Images-PoC/week_9/day_61.png)
+- [day_61](day_61.png)
 
 ---
 
@@ -95,7 +95,7 @@ Completed a Reverse Engineering challenge on BTLO.
 - **Code Logic:** Understood basic assembly or decompiled code flow to determine the program's objective.
 
 **Proof of Concept:**
-- [day_62](Images-PoC/week_9/day_62.png)
+- [day_62](day_62.png)
 
 ---
 
@@ -108,6 +108,6 @@ Completed the *D3FEND* challenge on BTLO.
 - **Defensive Architecture:** Learned how to select appropriate artifacts and defensive mechanisms for specific threat scenarios.
 
 **Proof of Concept:**
-- [day_63](Images-PoC/week_9/day_63.png)
+- [day_63](day_63.png)
 
 ---
