@@ -976,6 +976,7 @@ Completed the *Introduction to Splunk* module by Splunk BOTS (Boss of the SOC).
 
 ## DAY 61
 **Activity:**
+
 Completed a Network Analysis challenge on BTLO.
 
 **Learning and Outcome:** 
