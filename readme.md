@@ -18,6 +18,117 @@ This repository serves as a **public learning log and portfolio**, demonstrating
 - Showcase proof-of-work for recruiters and hiring managers
 
 ---
+
+
+## WEEK 1 REVIEW (Day 1 – Day 7)
+**Focus:** Linux, networking basics, SOC foundations, Active Directory.
+
+**Key Skills Gained:**
+- Linux fundamentals
+- Enumeration basics
+- DHCP and VLANs
+- SOC structure and analyst roles
+- Active Directory fundamentals
+
+---
+
+## WEEK 2 REVIEW (Day 8 – Day 14)
+**Focus:** Windows fundamentals, SIEM exposure, SOC simulations.
+
+**Key Skills Gained:**
+- Windows internals
+- SIEM deployment
+- Phishing detection
+- Network traffic analysis
+
+---
+
+## WEEK 3 REVIEW (Day 15 – Day 21)
+**Focus:** SIEM foundations, SPL, SOC theory.
+
+**Key Skills Gained:**
+- Log analysis
+- SPL proficiency
+- SIEM comparison
+
+---
+
+## WEEK 4 REVIEW (Day 22 – Day 28)
+**Focus:** Detection engineering, SIEM dashboards, EDR research.
+
+**Key Skills Gained:**
+- Threat simulation
+- Malware analysis basics
+- Endpoint telemetry
+
+---
+
+## WEEK 5 REVIEW (Day 29 – Day 31)
+**Focus:**
+Endpoint detection, log forwarding, and SIEM integration.
+
+**Key Takeaways:**
+- Practical experience with Linux and Windows telemetry
+- Understanding limitations and troubleshooting SIEM integrations
+- Improved visibility into endpoint and network activity
+
+---
+
+## WEEK 6 REVIEW (Day 32 – Day 38)
+**Focus:**
+SOC tooling, DFIR, adversary emulation, and ransomware analysis.
+
+**Key Takeaways:**
+- IDS and endpoint telemetry integration
+- DFIR tooling exposure
+- Blue Team response to simulated threats
+
+---
+
+## WEEK 7 REVIEW (Day 39 – Day 45)
+**Focus:**
+Web vulnerabilities, malware analysis, network discovery, and SOC triage.
+
+**Key Takeaways:**
+- Practical vulnerability analysis
+- SOC alert investigation workflows
+- Improved familiarity with SIEM platforms
+
+---
+
+## WEEK 8 REVIEW (Day 46 – Day 51)
+**Focus:**
+Web attacks, phishing, YARA, and digital forensics.
+
+**Key Takeaways:**
+- Improved detection logic
+- Forensic artifact analysis
+- SIEM-based investigations
+
+---
+
+## WEEK 9 REVIEW (Day 52 – Day 63)
+**Focus:**
+Forensics, malware analysis, ICS security, Blue Team operations, and Splunk BOTS.
+
+**Key Takeaways:**
+- **Forensics & Analysis:** File recovery, metadata analysis (ExifTool), and malware/ransomware analysis.
+- **Specialized Security:** ICS/Modbus fundamentals and Cloud security (AWS).
+- **Defense Frameworks:** Applied MITRE D3FEND.
+- **Script Analysis:** PowerShell de-obfuscation and JWT manipulation.
+
+---
+
+## WEEK 10 REVIEW (Day 64 – Day 70)
+**Focus:**
+Advanced Splunk configuration (Field Extractions, Alerting), SOC Interview preparation, and Case Management.
+
+**Key Skills Gained:**
+- **Splunk Admin:** Creating persistent field extractions and optimizing SPL.
+- **Detection:** Writing logic for port scan detection.
+- **Investigation:** Handling BEC cases and understanding SOC ticketing workflows.
+
+---
 ## Progress Tracker (Click to Navigate)
 
 <div align="center">
