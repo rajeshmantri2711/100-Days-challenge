@@ -1240,5 +1240,377 @@ Wrote Custom Suricata Rules for SSH.
 - [day_76_2](Images-PoC/week_11/day_76_2.png)
 - [day_76_3](Images-PoC/week_11/day_76_3.png)
 
+## DAY 77
+**Activity:**
+Explored Splunk SOAR features.
+
+**Learning and Outcome:**
+- **SOAR Functionality:** Deepened understanding of how SOAR platforms orchestrate responses.
+- **Artifact Analysis:** Learned how to analyze artifacts within the SOAR environment to determine incident scope.
+
+**Proof of Concept:**
+- [day_77](Images-PoC/day_77.png)
+
+---
+
+## WEEK 11 REVIEW (Day 71 – Day 77)
+**Focus:** Malware analysis, Vulnerability Management research, and SOAR integration.
+**Key Skills Gained:**
+- Deconstructing ransomware scripts.
+- Sysmon and Suricata custom rule configuration.
+- Connecting Splunk Enterprise to Splunk SOAR for automated alerting.
+
+---
+
+## DAY 78
+**Activity:**
+Completed EDR and SIEM rooms on TryHackMe.
+
+**Learning and Outcome:**
+- **EDR Fundamentals:** Learned the core functions of Endpoint Detection and Response tools.
+- **SIEM Fundamentals:** Reinforced SIEM concepts using Splunk.
+
+**Proof of Concept:**
+- [day_78](Images-PoC/day_78.png)
+
+---
+
+## DAY 79
+**Activity:**
+Completed two Phishing rooms on TryHackMe.
+
+**Learning and Outcome:**
+- **Phishing Analysis:** Learned how malicious links are hidden within click boxes.
+- **Attachment Forensics:** Understood the dangers of un-scanned attachments, including weaponized image files.
+
+**Proof of Concept:**
+- [day_79](Images-PoC/day_79.png)
+
+---
+
+## DAY 80
+**Activity:**
+Advanced SOAR Automated Responses.
+
+**Learning and Outcome:**
+- **Playbook Execution:** Wrote custom alert rules and forwarded them to SOAR.
+- **Active Mitigation:** Configured SOAR to take automated actions, such as blocking malicious IPs and ports based on Splunk alerts.
+
+**Proof of Concept:**
+- [day_80](Images-PoC/day_80.png)
+
+---
+
+## DAY 81
+**Activity:**
+Selected and deployed LimaCharlie EDR for the SOC Home Lab.
+
+**Learning and Outcome:**
+- **EDR Deployment:** Installed LimaCharlie (utilizing the free trial for 2 sensors) to test endpoint visibility.
+- **Exploration:** Began exploring the sensor capabilities and planning Splunk integration.
+
+**Proof of Concept:**
+- [day_81](Images-PoC/day_81.png)
+
+---
+
+## DAY 82
+**Activity:**
+Explored LimaCharlie endpoint management capabilities.
+
+**Learning and Outcome:**
+- **Endpoint Control:** Learned how to remotely list, kill, and suspend processes on an endpoint directly from the EDR console.
+
+**Proof of Concept:**
+- [day_82](Images-PoC/day_82.png)
+
+---
+
+## DAY 83
+**Activity:**
+Studied File Integrity Monitoring (FIM) and Detection & Response (D&R) in LimaCharlie.
+
+**Learning and Outcome:**
+- **Detection Engineering:** Learned the syntax and logic for creating custom D&R rules to monitor critical file changes.
+
+**Proof of Concept:**
+- [day_83](Images-PoC/day_83.png)
+
+---
+
+## DAY 84
+**Activity:**
+Wrote and troubleshooted FIM rules in LimaCharlie.
+
+**Learning and Outcome:**
+- **Rule Creation:** Wrote custom FIM rules.
+- **Troubleshooting:** Debugged rule logic to ensure accurate triggering without excessive noise.
+
+**Proof of Concept:**
+- [day_84](Images-PoC/day_84.png)
+
+---
+
+## WEEK 12 REVIEW (Day 78 – Day 84)
+**Focus:** Phishing analysis, SOAR active mitigation, and LimaCharlie EDR deployment.
+**Key Skills Gained:**
+- Automated IP/Port blocking via SOAR.
+- Deploying and managing LimaCharlie EDR sensors.
+- Remote process execution (kill/suspend) and FIM rule creation.
+
+---
+
+## DAY 85
+**Activity:**
+Integrated LimaCharlie alerts with Splunk.
+
+**Learning and Outcome:**
+- **SIEM/EDR Integration:** Successfully configured LimaCharlie to forward detection alerts into the Splunk indexer.
+
+**Proof of Concept:**
+- [day_85](Images-PoC/day_85.png)
+
+---
+
+## DAY 86
+**Activity:**
+Automated LimaCharlie data ingestion and wrote JSON-parsing SPL.
+
+**Learning and Outcome:**
+- **Scripting:** Created a script to automatically pull data from LimaCharlie to a local instance for automatic Splunk indexing.
+- **Log Parsing:** Wrote custom SPL to clean up cluttered JSON logs and extract only actionable fields for analysts.
+
+**Proof of Concept:**
+- [day_86](Images-PoC/day_86.png)
+
+---
+
+## DAY 87
+**Activity:**
+Refined LimaCharlie D&R rules and integrated VirusTotal lookups.
+
+**Learning and Outcome:**
+- **Rule Tuning:** Fixed a runaway rule that was deleting non-malicious files.
+- **Threat Intel Integration:** Created a highly specific rule that checks file hashes against the VirusTotal API upon file creation, automatically deleting the file if flagged as malicious.
+
+**Technical Note (LimaCharlie D&R Rule):**
+```yaml
+# Detection
+event: FIM_HIT
+op: and
+rules:
+  - op: is
+    path: event/ACTION
+    value: added
+    case sensitive: false
+  - op: matches
+    path: event/FILE_PATH
+    re: ./Downloads/.
+  - metadata_rules:
+      length of: true
+      op: is greater than
+      path: /
+      value: 3
+    op: lookup
+    path: event/HASH
+    resource: lcr://api/vt
+
+# Response
+- action: report
+  metadata:
+    level: critical
+  name: 'VT MALICIOUS HASH: {{ .event.FILE_PATH }}'
+- action: task
+  command: file_del '{{ .event.FILE_PATH }}'
+```
+
+**Proof of Concept:**
+- [day_87](Images-PoC/day_87.png)
+
+---
+
+## DAY 88
+**Activity:**
+Bash Scripting Revision.
+
+**Learning and Outcome:**
+- **Scripting:** Due to a medical emergency limiting lab time, spent available hours reviewing and brushing up on Bash scripting fundamentals.
+
+**Proof of Concept:**
+- [day_88](Images-PoC/day_88.png)
+
+---
+
+## DAY 89
+**Activity:**
+AI-Assisted Alert Triage Practice.
+
+**Learning and Outcome:**
+- **Triage Scenarios:** Leveraged AI to simulate various L1 and L2 alert scenarios to practice response workflows.
+- **Goal Setting:** Committed to triaging at least 20 different alerts to improve decision-making speed and accuracy.
+
+**Proof of Concept:**
+- [day_89](Images-PoC/day_89.png)
+
+---
+
+## DAY 90
+**Activity:**
+Continued Alert Triaging and Log Analysis.
+
+**Learning and Outcome:**
+- **Hands-on Analysis:** Applied the triage methodologies practiced on Day 89 to actual log analysis within the lab environment.
+
+**Proof of Concept:**
+- [day_90](Images-PoC/day_90.png)
+
+---
+
+## DAY 91
+**Activity:**
+Completed THM *Network Traffic Rules* and started Cybrary SOC training.
+
+**Learning and Outcome:**
+- **Traffic Analysis:** Improved network traffic detection logic.
+- **Continuous Learning:** Enrolled in a Cybrary SOC course, committing to 10 modules per day.
+
+**Proof of Concept:**
+- [day_91](Images-PoC/day_91.png)
+
+---
+
+## WEEK 13 REVIEW (Day 85 – Day 91)
+**Focus:** LimaCharlie & Splunk Integration, automated threat hunting, and Alert Triage.
+**Key Skills Gained:**
+- API data pulling and JSON log parsing in Splunk.
+- Writing complex D&R rules (VirusTotal lookup + auto-delete).
+- Simulated L1/L2 SOC alert triaging.
+
+---
+
+## DAY 92
+**Activity:**
+Completed *Network Security Essential* and *Network Discovery Detection* (THM SOC L1).
+
+**Learning and Outcome:**
+- **Network Defense:** Learned to read, parse, and investigate Firewall and VPN logs for suspicious activity.
+
+**Proof of Concept:**
+- [day_92](Images-PoC/day_92.png)
+
+---
+
+## DAY 93
+**Activity:**
+Completed *Web Security Essential*, *Intro to Logs*, and *Log Operations* (THM SOC L1).
+
+**Learning and Outcome:**
+- **Web Security:** Explored SaaS vulnerabilities and mitigation strategies.
+- **Log Management:** Studied logging best practices, log types, and data processing pipelines.
+
+**Proof of Concept:**
+- [day_93](Images-PoC/day_93.png)
+
+---
+
+## DAY 94
+**Activity:**
+Completed *Intro to Log Analysis* room on TryHackMe.
+
+**Learning and Outcome:**
+- **Log Investigation:** Practiced correlating events across different log sources to build an incident timeline.
+
+**Proof of Concept:**
+- [day_94](Images-PoC/day_94.png)
+
+---
+
+## DAY 95
+**Activity:**
+Started ISC2 Certified in Cybersecurity (CC) Preparation.
+
+**Learning and Outcome:**
+- **Benchmarking:** Took the ISC2 CC Pre-test and scored 93%.
+- **Fundamentals:** Completed the first module of the ISC2 CC training.
+
+**Proof of Concept:**
+- [day_95](Images-PoC/day_95.png)
+
+---
+
+## DAY 96
+**Activity:**
+Studied ISC2 CC Domain 2 and Domain 3.
+
+**Learning and Outcome:**
+- **Domain 2:** Studied Incident Response, Business Continuity, and Disaster Recovery (BCDR). Identified IR as an area for improvement.
+- **Domain 3:** Studied Access Control Concepts. Identified User Privilege Administration as an area to review.
+
+**Proof of Concept:**
+- [day_96](Images-PoC/day_96.png)
+
+---
+
+## DAY 97
+**Activity:**
+Studied ISC2 CC Domain 4.
+
+**Learning and Outcome:**
+- **Network Security:** Completed Domain 4 (Network Security) and took practice tests to validate knowledge.
+
+**Proof of Concept:**
+- [day_97](Images-PoC/day_97.png)
+
+---
+
+## DAY 98
+**Activity:**
+Started Mike Chapple's ISC2 CC Course.
+
+**Learning and Outcome:**
+- **Certification Prep:** Transitioned to structured video training to solidify CC exam topics.
+
+**Proof of Concept:**
+- [day_98](Images-PoC/day_98.png)
+
+---
+
+## WEEK 14 REVIEW (Day 92 – Day 98)
+**Focus:** Deep Log Analysis, VPN/Firewall Logs, and ISC2 CC Exam Preparation.
+**Key Skills Gained:**
+- VPN and Firewall log analysis.
+- SaaS vulnerability concepts.
+- Formalized knowledge in IR, BCDR, Access Control, and Network Security (ISC2 domains).
+
+---
+
+## DAY 99
+**Activity:**
+Continued Mike Chapple's ISC2 CC Course.
+
+**Learning and Outcome:**
+- **Certification Prep:** Completed 8 chapters of the course material, preparing for the final practice exams.
+
+**Proof of Concept:**
+- [day_99](Images-PoC/day_99.png)
+
+---
+
+## DAY 100
+**Activity:**
+Completed the 100 Days of Cybersecurity Challenge! Continued ISC2 CC training.
+
+**Learning and Outcome:**
+- **Milestone Reached:** Successfully maintained 100 consecutive days of cybersecurity upskilling, lab building, and documentation.
+- **Continuous Learning:** Completed two more modules from Mike Chapple's course. The challenge ends, but the learning continues!
+
+**Proof of Concept:**
+- [day_100](Images-PoC/day_100.png)
+
+---
+
+## FINAL REVIEW (Day 99 – Day 100)
+**Focus:** Certification Readiness and Project Conclusion.
+**Key Takeaway:** Built a fully functioning SOC home lab with Splunk, SOAR, and LimaCharlie EDR, developed custom detection rules, and solidified foundational knowledge through the ISC2 CC syllabus.
 
 This repository will continue to be updated weekly.
