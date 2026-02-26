@@ -1630,5 +1630,3 @@ Completed the 100 Days of Cybersecurity Challenge! Continued ISC2 CC training.
 ## FINAL REVIEW (Day 99 – Day 100)
 **Focus:** Certification Readiness and Project Conclusion.
 **Key Takeaway:** Built a fully functioning SOC home lab with Splunk, SOAR, and LimaCharlie EDR, developed custom detection rules, and solidified foundational knowledge through the ISC2 CC syllabus.
-
-This repository will continue to be updated weekly.
