@@ -13,6 +13,32 @@ Advanced Splunk configuration (Field Extractions, Alerting), SOC Interview prepa
 
 ## Daily Progress
 
+## DAY 64
+**Activity:**
+Splunk Exploration: Writing Custom SPL and Field Extractions.
+
+**Learning and Outcome:**
+- **Active Endpoint Detection:** Wrote SPL to track endpoints active within the last 5 minutes across Linux (`linux_sysmon_xml`) and Windows (`XmlWinEventLog`).
+- **Field Extractions:** Configured permanent field extractions in Splunk Settings to normalize `EventID`, `Image`, and `CommandLine` from XML data, replacing the need for repetitive `rex` commands in searches.
+- **Optimization:** Reduced SPL complexity and improved search performance by persisting regex logic.
+
+**Technical Note (SPL):**
+*List Active Endpoints:*
+```splunk
+index=* sourcetype IN ("linux_sysmon_xml", "XmlWinEventLog")
+| stats latest(_time) AS last_seen BY host
+| where now()-last_seen <= 300
+| eval last_seen=strftime(last_seen, "%Y-%m-%d %H:%M:%S")
+| table host last_seen
+```
+
+**Proof of Concept:**
+- [day_64](day_64.png)
+- [day_64_1](day_64_1.png)
+
+---
+---
+
 ## DAY 65
 **Activity:**
 Studied SOC Interview Questions and Answers (Remote Study).
@@ -22,7 +48,7 @@ Studied SOC Interview Questions and Answers (Remote Study).
 - **Theory:** Reinforced knowledge of incident response lifecycles and standard analyst triage procedures.
 
 **Proof of Concept:**
-- [day_65](Images-PoC/day_65.png)
+- [day_65](day_65.png)
 
 ---
 ---
@@ -35,7 +61,7 @@ Continued SOC Interview Preparation.
 - **Scenario Analysis:** Studied behavioral and technical questions related to threat handling and false positive differentiation.
 
 **Proof of Concept:**
-- [day_66](Images-PoC/day_66.png)
+- [day_66](day_66.png)
 
 ---
 ---
@@ -49,7 +75,7 @@ Refining Splunk SPL for Log Normalization.
 - **Filtering:** Applied advanced filtering techniques to isolate relevant security events.
 
 **Proof of Concept:**
-- [day_67](Images-PoC/day_67.png)
+- [day_67](day_67.png)
 
 ---
 ---
@@ -63,7 +89,8 @@ Configured Splunk Alerts for Port Scanning.
 - **Alerting:** Configured threshold conditions to detect Nmap-style scanning behavior.
 
 **Proof of Concept:**
-- [day_68](Images-PoC/day_68.png)
+- [day_68](day_68.png)
+- [day_68_1](day_68_1.png)
 
 ---
 ---
@@ -76,7 +103,7 @@ Completed *Report 2* Challenge from BTLO.
 - **Reporting:** Practiced documenting findings and analyzing evidence provided in the challenge scenario.
 
 **Proof of Concept:**
-- [day_69](Images-PoC/day_69.png)
+- [day_69](day_69.png)
 
 ---
 ---
@@ -90,7 +117,8 @@ Completed *BEC-KY* investigation (BTLO) and explored LetsDefend.
 - **Case Management:** Explored LetsDefend to understand how SOC tickets are generated, assigned, and closed in a case management system.
 
 **Proof of Concept:**
-- [day_70](Images-PoC/day_70.png)
+- [day_70](day_70.png)
+- [day_70_1](day_70_1.png)
 
 ---
 ---

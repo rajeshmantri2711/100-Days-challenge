@@ -1,4 +1,3 @@
-
 # 100 Days of Cybersecurity Challenge
 
 ## Overview
@@ -71,14 +70,15 @@ This repository serves as a **public learning log and portfolio**, demonstrating
 
 ### Part 3: Days 71 – 100
 
-| Week 11 | 
-| :---: | 
-| [Day 71 ](#day-71) | 
-| [Day 72 ](#day-72) | 
-| [Day 73 ](#day-73) | 
-| [Day 74 ](#day-74) | 
-| [Day 75 ](#day-75) | 
-| [Day 76 ](#day-76) | 
+| Week 11 | Week 12 | Week 13 | Week 14 | Week 15 |
+| :---: | :---: | :---: | :---: | :---: |
+| [Day 71](#day-71) | [Day 78](#day-78) | [Day 85](#day-85) | [Day 92](#day-92) | [Day 99](#day-99) |
+| [Day 72](#day-72) | [Day 79](#day-79) | [Day 86](#day-86) | [Day 93](#day-93) | [Day 100](#day-100) |
+| [Day 73](#day-73) | [Day 80](#day-80) | [Day 87](#day-87) | [Day 94](#day-94) | |
+| [Day 74](#day-74) | [Day 81](#day-81) | [Day 88](#day-88) | [Day 95](#day-95) | |
+| [Day 75](#day-75) | [Day 82](#day-82) | [Day 89](#day-89) | [Day 96](#day-96) | |
+| [Day 76](#day-76) | [Day 83](#day-83) | [Day 90](#day-90) | [Day 97](#day-97) | |
+| [Day 77](#day-77) | [Day 84](#day-84) | [Day 91](#day-91) | [Day 98](#day-98) | |
 
 </div>
 
@@ -589,7 +589,7 @@ Deployed Velociraptor (DFIR tool) on Linux and built Splunk dashboards.
 
 **Proof of Concept:**  
 - [day_33](Images-PoC/week_5/day_33.png)
-- [day_33](Images-PoC/week_5/day_33_1.png)
+- [day_33_1](Images-PoC/week_5/day_33_1.png)
 
 ---
 
@@ -628,8 +628,8 @@ Started Advent of Cyber on TryHackMe.
 - Began structured daily security challenges covering multiple domains  
 
 **Proof of Concept:**  
-- [day_36](Images-PoC/week_6/day_36-1.png)
-- [day_36](Images-PoC/week_5/day_34_thm.png)
+- [day_36](Images-PoC/week_6/day_36_thm.png)
+- [day_36_1](Images-PoC/week_6/day_36-1.png)
 
 
 ---
@@ -822,8 +822,8 @@ Completed AoC Containers and Forensics room.
 - Used Splunk for forensic analysis  
 
 **Proof of Concept:**  
-- [day_49](Images-PoC/week_7/day_49_1.png)
-- [day_49_1](Images-PoC/week_7/day_49_2.png)
+- [day_49_1](Images-PoC/week_7/day_49_1.png)
+- [day_49_2](Images-PoC/week_7/day_49_2.png)
 
 ---
 
@@ -1113,7 +1113,7 @@ Configured Splunk Alerts for Port Scanning.
 
 **Proof of Concept:**
 - [day_68](Images-PoC/week_10/day_68.png)
-- [day_68](Images-PoC/week_10/day_68.png)
+- [day_68_1](Images-PoC/week_10/day_68_1.png)
 
 ---
 
@@ -1249,7 +1249,7 @@ Explored Splunk SOAR features.
 - **Artifact Analysis:** Learned how to analyze artifacts within the SOAR environment to determine incident scope.
 
 **Proof of Concept:**
-- [day_77](Images-PoC/day_77.png)
+- [day_77](Images-PoC/week_11/day_77.png)
 
 ---
 
@@ -1271,7 +1271,8 @@ Completed EDR and SIEM rooms on TryHackMe.
 - **SIEM Fundamentals:** Reinforced SIEM concepts using Splunk.
 
 **Proof of Concept:**
-- [day_78](Images-PoC/day_78.png)
+- [day_78](Images-PoC/week_12/day_78.png)
+- [day_78_1](Images-PoC/week_12/day_78_1.png)
 
 ---
 
@@ -1284,7 +1285,8 @@ Completed two Phishing rooms on TryHackMe.
 - **Attachment Forensics:** Understood the dangers of un-scanned attachments, including weaponized image files.
 
 **Proof of Concept:**
-- [day_79](Images-PoC/day_79.png)
+- [day_79](Images-PoC/week_12/day_79.png)
+- [day_79_1](Images-PoC/week_12/day_79_!.png)
 
 ---
 
@@ -1297,7 +1299,8 @@ Advanced SOAR Automated Responses.
 - **Active Mitigation:** Configured SOAR to take automated actions, such as blocking malicious IPs and ports based on Splunk alerts.
 
 **Proof of Concept:**
-- [day_80](Images-PoC/day_80.png)
+- [day_80](Images-PoC/week_12/day_80.png)
+- [day_80_1](Images-PoC/week_12/day_80_1.png)
 
 ---
 
@@ -1310,7 +1313,8 @@ Selected and deployed LimaCharlie EDR for the SOC Home Lab.
 - **Exploration:** Began exploring the sensor capabilities and planning Splunk integration.
 
 **Proof of Concept:**
-- [day_81](Images-PoC/day_81.png)
+- [day_81](Images-PoC/week_12/day_81.png)
+- [day_81_1](Images-PoC/week_12/day_81_1.png)
 
 ---
 
@@ -1322,7 +1326,9 @@ Explored LimaCharlie endpoint management capabilities.
 - **Endpoint Control:** Learned how to remotely list, kill, and suspend processes on an endpoint directly from the EDR console.
 
 **Proof of Concept:**
-- [day_82](Images-PoC/day_82.png)
+- [day_82](Images-PoC/week_12/day_82.png)
+- [day_82_1](Images-PoC/week_12/day_82_!.png)
+- [day_82_2](Images-PoC/week_12/day_82_2.png)
 
 ---
 
@@ -1334,7 +1340,7 @@ Studied File Integrity Monitoring (FIM) and Detection & Response (D&R) in LimaCh
 - **Detection Engineering:** Learned the syntax and logic for creating custom D&R rules to monitor critical file changes.
 
 **Proof of Concept:**
-- [day_83](Images-PoC/day_83.png)
+- [day_83](Images-PoC/week_12/day_83.png)
 
 ---
 
@@ -1347,7 +1353,8 @@ Wrote and troubleshooted FIM rules in LimaCharlie.
 - **Troubleshooting:** Debugged rule logic to ensure accurate triggering without excessive noise.
 
 **Proof of Concept:**
-- [day_84](Images-PoC/day_84.png)
+- [day_84](Images-PoC/week_12/day_84.png)
+- [day_84_1](Images-PoC/week_12/day_84_1.png)
 
 ---
 
@@ -1368,7 +1375,7 @@ Integrated LimaCharlie alerts with Splunk.
 - **SIEM/EDR Integration:** Successfully configured LimaCharlie to forward detection alerts into the Splunk indexer.
 
 **Proof of Concept:**
-- [day_85](Images-PoC/day_85.png)
+- [day_85](Images-PoC/week_13/day_85.png)
 
 ---
 
@@ -1381,7 +1388,9 @@ Automated LimaCharlie data ingestion and wrote JSON-parsing SPL.
 - **Log Parsing:** Wrote custom SPL to clean up cluttered JSON logs and extract only actionable fields for analysts.
 
 **Proof of Concept:**
-- [day_86](Images-PoC/day_86.png)
+- [day_86](Images-PoC/week_13/day_86.png)
+- [day_86_1](Images-PoC/week_13/day_86_1.png)
+- [day_86_2](Images-PoC/week_13/day_86_2.png)
 
 ---
 
@@ -1425,7 +1434,8 @@ rules:
 ```
 
 **Proof of Concept:**
-- [day_87](Images-PoC/day_87.png)
+- [day_87](Images-PoC/week_13/day_87.png)
+- [day_87_1](Images-PoC/week_13/day_87_1.png)
 
 ---
 
@@ -1437,7 +1447,7 @@ Bash Scripting Revision.
 - **Scripting:** Due to a medical emergency limiting lab time, spent available hours reviewing and brushing up on Bash scripting fundamentals.
 
 **Proof of Concept:**
-- [day_88](Images-PoC/day_88.png)
+- [day_88](Images-PoC/week_13/day_88.png)
 
 ---
 
@@ -1450,7 +1460,7 @@ AI-Assisted Alert Triage Practice.
 - **Goal Setting:** Committed to triaging at least 20 different alerts to improve decision-making speed and accuracy.
 
 **Proof of Concept:**
-- [day_89](Images-PoC/day_89.png)
+- [day_89](Images-PoC/week_13/day_89.png)
 
 ---
 
@@ -1462,7 +1472,8 @@ Continued Alert Triaging and Log Analysis.
 - **Hands-on Analysis:** Applied the triage methodologies practiced on Day 89 to actual log analysis within the lab environment.
 
 **Proof of Concept:**
-- [day_90](Images-PoC/day_90.png)
+- [day_90](Images-PoC/week_13/day_90.png)
+- [day_90_1](Images-PoC/week_13/day_90_1.png)
 
 ---
 
@@ -1475,7 +1486,8 @@ Completed THM *Network Traffic Rules* and started Cybrary SOC training.
 - **Continuous Learning:** Enrolled in a Cybrary SOC course, committing to 10 modules per day.
 
 **Proof of Concept:**
-- [day_91](Images-PoC/day_91.png)
+- [day_91](Images-PoC/week_13/day_91.png)
+- [day_91_1](Images-PoC/week_13/day_91_1.png)
 
 ---
 
@@ -1496,7 +1508,8 @@ Completed *Network Security Essential* and *Network Discovery Detection* (THM SO
 - **Network Defense:** Learned to read, parse, and investigate Firewall and VPN logs for suspicious activity.
 
 **Proof of Concept:**
-- [day_92](Images-PoC/day_92.png)
+- [day_92](Images-PoC/week_14/day_92.png)
+- [day_92_1](Images-PoC/week_14/day_92_1.png)
 
 ---
 
@@ -1509,7 +1522,9 @@ Completed *Web Security Essential*, *Intro to Logs*, and *Log Operations* (THM S
 - **Log Management:** Studied logging best practices, log types, and data processing pipelines.
 
 **Proof of Concept:**
-- [day_93](Images-PoC/day_93.png)
+- [day_93](Images-PoC/week_14/day_93.png)
+- [day_93_1](Images-PoC/week_14/day_93_1.png)
+- [day_93_2](Images-PoC/week_14/day_93_2.png)
 
 ---
 
@@ -1521,7 +1536,7 @@ Completed *Intro to Log Analysis* room on TryHackMe.
 - **Log Investigation:** Practiced correlating events across different log sources to build an incident timeline.
 
 **Proof of Concept:**
-- [day_94](Images-PoC/day_94.png)
+- [day_94](Images-PoC/week_14/day_94.png)
 
 ---
 
@@ -1534,7 +1549,8 @@ Started ISC2 Certified in Cybersecurity (CC) Preparation.
 - **Fundamentals:** Completed the first module of the ISC2 CC training.
 
 **Proof of Concept:**
-- [day_95](Images-PoC/day_95.png)
+- [day_95](Images-PoC/week_14/day_95.png)
+- [day_95_1](Images-PoC/week_14/day_95_1.png)
 
 ---
 
@@ -1547,7 +1563,8 @@ Studied ISC2 CC Domain 2 and Domain 3.
 - **Domain 3:** Studied Access Control Concepts. Identified User Privilege Administration as an area to review.
 
 **Proof of Concept:**
-- [day_96](Images-PoC/day_96.png)
+- [day_96](Images-PoC/week_14/day_96.png)
+- [day_96_1](Images-PoC/week_14/day_96_1.png)
 
 ---
 
@@ -1559,7 +1576,8 @@ Studied ISC2 CC Domain 4.
 - **Network Security:** Completed Domain 4 (Network Security) and took practice tests to validate knowledge.
 
 **Proof of Concept:**
-- [day_97](Images-PoC/day_97.png)
+- [day_97](Images-PoC/week_14/day_97.png)
+- [day_97_1](Images-PoC/week_14/day_97_1.png)
 
 ---
 
@@ -1571,7 +1589,7 @@ Started Mike Chapple's ISC2 CC Course.
 - **Certification Prep:** Transitioned to structured video training to solidify CC exam topics.
 
 **Proof of Concept:**
-- [day_98](Images-PoC/day_98.png)
+- [day_98](Images-PoC/week_14/day_98.png)
 
 ---
 
@@ -1592,7 +1610,7 @@ Continued Mike Chapple's ISC2 CC Course.
 - **Certification Prep:** Completed 8 chapters of the course material, preparing for the final practice exams.
 
 **Proof of Concept:**
-- [day_99](Images-PoC/day_99.png)
+- [day_99](Images-PoC/week_15/day_99.png)
 
 ---
 
@@ -1605,7 +1623,7 @@ Completed the 100 Days of Cybersecurity Challenge! Continued ISC2 CC training.
 - **Continuous Learning:** Completed two more modules from Mike Chapple's course. The challenge ends, but the learning continues!
 
 **Proof of Concept:**
-- [day_100](Images-PoC/day_100.png)
+- [day_100](Images-PoC/week_15/day_100.png)
 
 ---
 

@@ -3,112 +3,110 @@
 ## WEEK 4 REVIEW (Day 22 – Day 28)
 **Focus:** Detection engineering, SIEM dashboards, EDR research.
 
-**Key Skills Gained:**  
-- Threat simulation  
-- Malware analysis basics  
-- Endpoint telemetry  
+**Key Skills Gained:**
+- Threat simulation
+- Malware analysis basics
+- Endpoint telemetry
 
----
 ---
 
 ## Daily Progress
 
 ## DAY 22
-**Activity:**  
+**Activity:**
 Continued SOC 101 course.
 
-**Learning and Outcome:**  
-- Phishing techniques  
-- Attachment analysis  
+**Learning and Outcome:**
+- Phishing techniques
+- Attachment analysis
 
-**Proof of Concept:**  
+**Proof of Concept:**
 - [day_22](day_22.png)
 
 ---
 ---
 
 ## DAY 23
-**Activity:**  
+**Activity:**
 Manual Splunk testing due to network issues.
 
-**Learning and Outcome:**  
-- SPL reinforcement  
+**Learning and Outcome:**
+- SPL reinforcement
 
-**Proof of Concept:**  
+**Proof of Concept:**
 - [day_23](day_23.png)
 
 ---
 ---
 
 ## DAY 24
-**Activity:**  
+**Activity:**
 Used Caldera for attack simulation.
 
-**Learning and Outcome:**  
-- Generated malicious activity  
-- Observed logs in Splunk  
+**Learning and Outcome:**
+- Generated malicious activity
+- Observed logs in Splunk
 
-**Proof of Concept:**  
-- [day_24](day_24_1(caldera).png)
-- [day_24_1](day_24_2(spulnk).png)
+**Proof of Concept:**
+- [day_24_1(caldera)](day_24_1(caldera).png)
+- [day_24_2(spulnk)](day_24_2(spulnk).png)
 
 ---
 ---
 
 ## DAY 25
-**Activity:**  
+**Activity:**
 Built Splunk dashboards.
 
-**Learning and Outcome:**  
-- Data visualization  
+**Learning and Outcome:**
+- Data visualization
 
-**Proof of Concept:**  
-- [day_25](day_25_1.png)
-- [day_25_1](day_25_2.png)
-- [day_25_2](day_25_3.png)
-- [day_25_3](day_25_4.png)
-
+**Proof of Concept:**
+- [day_25_1](day_25_1.png)
+- [day_25_2](day_25_2.png)
+- [day_25_3](day_25_3.png)
+- [day_25_4](day_25_4.png)
 
 ---
 ---
 
 ## DAY 26
-**Activity:**  
+**Activity:**
 Completed BTLO *Piggy* and progressed in *Foxy*.
 
-**Learning and Outcome:**  
-- PCAP analysis  
-- OSINT  
+**Learning and Outcome:**
+- PCAP analysis
+- OSINT
 
-**Proof of Concept:**  
-- [day_26](day_26_1.png)
-- [day_26_1](day_26_2.png)
+**Proof of Concept:**
+- [day_26_1](day_26_1.png)
+- [day_26_2](day_26_2.png)
 
 ---
 ---
 
 ## DAY 27
-**Activity:**  
+**Activity:**
 Completed BTLO *Foxy*.
 
-**Learning and Outcome:**  
-- CSV analysis  
-- Malware analysis basics  
+**Learning and Outcome:**
+- CSV analysis
+- Malware analysis basics
 
-**Proof of Concept:**  
+**Proof of Concept:**
 - [day_27](day_27.png)
 
 ---
 ---
 
 ## DAY 28
-**Activity:**  
+**Activity:**
 Installed Sysmon for Linux (system failure occurred).
 
-**Learning and Outcome:**  
-- Explored free Linux EDR solutions  
+**Learning and Outcome:**
+- Explored free Linux EDR solutions
 
-**Proof of Concept:**  
+**Proof of Concept:**
 - [day_28](day_28.png)
 
 ---
