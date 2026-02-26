@@ -34,7 +34,11 @@ This repository serves as a **public learning log and portfolio**, demonstrating
 | **Week 8** | Forensics, YARA, Phishing | • Custom YARA Rule Creation<br>• Windows Registry Forensics<br>• Advanced Phishing Analysis |
 | **Week 9** | Advanced Forensics, ICS, MITRE D3FEND | • File Recovery & Metadata Analysis<br>• PowerShell De-obfuscation<br>• ICS/SCADA Security Basics<br>• MITRE D3FEND Mapping |
 | **Week 10** | Splunk Admin, Alerting, Case Management | • **Splunk:** Field Extractions & Optimization<br>• **Detection:** Port Scan Alert Logic<br>• **Ops:** Case Management & Ticketing |
-
+| **Week 11** | Malware, Vulnerability Management, SOAR | • Deconstructing ransomware scripts<br>• Sysmon & Suricata custom rule configuration<br>• Splunk to SOAR automated alerting |
+| **Week 12** | Phishing, SOAR Mitigation, LimaCharlie EDR | • Automated IP/Port blocking via SOAR<br>• LimaCharlie EDR deployment & management<br>• Remote process execution & FIM rule creation |
+| **Week 13** | EDR-SIEM Integration, Threat Hunting, Triage | • Splunk API data pulling & JSON parsing<br>• Complex D&R rules (VirusTotal + auto-delete)<br>• Simulated L1/L2 SOC alert triaging |
+| **Week 14** | Log Analysis, VPN/Firewalls, ISC2 CC Prep | • VPN & Firewall log analysis<br>• SaaS vulnerability concepts<br>• ISC2 domains (IR, BCDR, Access Control, NetSec) |
+| **Week 15** | Certification Readiness & Project Conclusion | • Fully functional SOC home lab (Splunk, SOAR, EDR)<br>• Custom detection rule development<br>• ISC2 CC foundational knowledge solidified |
 
 </div>
 
